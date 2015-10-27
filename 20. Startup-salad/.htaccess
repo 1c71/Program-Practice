@@ -1,0 +1,5 @@
+RewriteEngine on   
+
+RewriteCond $1 !^(index\.php|common|img|googlef1d38d4b909f1624\.html|sitemap\.xml|sitemapIndex\.xml|sitemapStatic\.xml|sitemapBar\.xml) 
+
+RewriteRule ^(.*)$ index.php/$1 [L]
