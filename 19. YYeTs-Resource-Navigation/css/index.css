@@ -1,0 +1,595 @@
+*{
+    font-family: 新宋体;
+    font-size: 12px; 
+}
+
+
+
+
+/* ========== 公用部分 ========= */
+
+/* 页面上有很多标题都是 深蓝字体颜色, 浅蓝背景. 所以就写了一个通用css类*/
+.title{
+    color: #005281;    /* 字体颜色 */
+    background-color: #bbe3fa; /* 背景颜色 */
+    font-weight:bold;     /* 粗体 */
+    font-size: 12px;    /* 字体大小 */
+
+    /* 上下内边距, 左边距. */
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+}
+
+
+
+/* 页面上的包围框都是1px的蓝色边框. 还是写成通用class */
+/* 实际上也就4个. "热门资源搜索", "好站推荐","知识讲解","实用工具" */
+.box{
+    border: 1px solid #bbe3fa;
+}
+/* ======= 公用部分结束 =========*/
+
+
+
+
+
+
+
+
+
+
+
+
+/* ======= 最顶部的蓝色小条 开始 ========== */
+
+#Top_nav{
+    background-color: #178cc8;
+
+    height: 30px;
+    line-height: 30px;
+
+    margin-bottom: 10px;
+
+    color: white    !important;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#Top_nav a{
+    color: white    !important;
+    text-decoration: none;
+}
+
+
+#Top_nav #big{
+    font-size: 14px;
+}
+
+
+#Top_nav ul{
+    display: inline-block;
+}
+
+
+#Top_nav ul li{
+    margin-left: 24px;
+}
+
+
+
+
+#Top_left{
+    float:left;
+    margin-left: 30px;
+
+}
+
+#Top_left li{
+    display: inline-block;
+
+}
+
+
+#Top_right{
+    float: right;
+    margin-right: 100px;
+}
+
+#Top_right li{
+    display: inline-block;
+}
+/* ======= 最顶部的蓝色小条 结束 ========== */
+
+
+
+
+
+
+/* ======= 头部开始 (LOGO和搜索框) ========== */
+
+
+header{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+
+#Search{
+    height:70px;
+}
+
+#Logo{
+    position: relative;
+    left: 40px;
+}
+
+#baohan{
+    position: absolute;
+    margin-left: 100px;
+}
+
+/* 搜索列表 */
+#Search_list{
+    margin-left: 0px;
+}
+
+#Search_list li{
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    padding: 5px;
+    /* 内外边距 */
+
+    font-size: 12px;
+    height: 15px;
+    line-height: 15px;
+    
+}
+
+
+.Search_list_hover{
+    cursor: pointer;
+    background-color: #99cffc;
+}
+
+
+.Search_list_active{
+    border-radius: 3px;
+    background-color: #178cc8;
+    color: white;
+}
+
+
+
+#text_and_button{
+    margin-bottom: 10px;
+}
+
+
+
+
+/* 文本框 */
+#Search_text{
+    width: 430px;
+    height: 30px;
+    border-radius: 0px;
+
+    position: relative;
+    bottom: 0;
+}
+
+/* 搜索按钮 */
+#Search_botton{
+    display: inline-block;
+    width: 70px;
+    height: 38px;
+    line-height: 38px;
+    text-align: center;
+    left: -5px;
+
+    position: relative;
+    bottom: 4px;
+    color: black;
+    background-image: -webkit-linear-gradient(top, #f1f1f1,#cfcfcf);
+    background-image: -moz-linear-gradient(top, #f1f1f1,#cfcfcf);
+    background-image: -o-linear-gradient(top, #f1f1f1,#cfcfcf);
+    background-image: linear-gradient(top, #f1f1f1,#cfcfcf);
+    /* 搜索按钮的背景渐变在此 */
+    /* 鼠标按下按钮后的样式变化由jQuery处理, 不在本css文件中 */
+
+    font-size: 14px;
+    font-family: 新宋体;
+    font-weight: bold;
+    border: 1px solid #808080;
+}
+
+
+#Search_botton:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+/* ========== 头部结束 ===================*/
+
+
+
+
+
+
+
+
+/* =========== 主体内容开始(热门资源搜索, 好站推荐) =======*/
+
+#hot_resource{
+    margin-bottom: 15px;
+}
+
+
+
+/* 热门资源里的每个ul */
+.ht_ul{
+    display: inline-block;
+    font-size: 12px;
+    width:90px;
+    margin-left: 0px;
+    margin-top: 4px;
+
+    white-space: nowrap;    
+    /* 不加这一行, li元素的 overflow:hidden; 就没用 */
+}
+
+
+.ht_ul li{
+    overflow: hidden;
+    margin-top: 2px;
+    padding: 2px;
+}
+
+.ht_ul li a{
+    color: #333;
+    text-decoration: none;
+}
+
+
+/* 显示类别的第一个li */
+.head_li{
+    font-weight: bold;
+}
+
+
+
+.normal a:hover{
+    padding: 1px;
+    color:white;
+    background-color: #f96;
+}
+
+
+
+/* 当浏览器可视区域大于1000 */
+@media screen and (min-width: 1100px){
+
+    .ht_ul{
+        width:110px;
+        margin-left: 14px;
+    }
+
+    .ht_ul li{
+        padding: 0;
+    }
+
+}
+
+/* 当浏览器可视区域小于1000 */
+@media screen and (max-width: 1100px){
+
+    .ht_ul{
+        width: 90px;
+        margin-left: 9px;
+    }
+
+}
+
+
+
+
+
+/* 好站推荐 */
+#good_website{
+    padding: 10px;
+    padding-bottom: 0;
+}
+
+#good_website .title{
+    text-align: center;
+}
+
+#good_website .item{
+    text-align: center;
+}
+
+
+
+
+
+/* 好站推荐里, 每个元素都是item */
+.item{
+    display: inline-block;      /* 这样div才能和谐共处的呆在一行.. */
+    margin-left:10px;
+}
+
+
+
+/* 
+    好站推荐下, 所有的元素都是高宽，内边距相同.  只是颜色不同.  
+    我们把颜色另写一个类.
+    下面的 Link 和  Description 定义了高宽, 内边距, 标题字体是白色等共性.
+    
+*/
+
+/* 标题. 如"人人影视" */
+.Link{
+    width: 138px;       
+    height: 26px;
+    line-height: 26px;
+    /* 宽高. 行高的值和高度一样. 文字就能垂直居中了 */
+
+    text-align: center;
+    overflow: hidden;   
+    /* 文本水平居中. 以及如果文本太长了, 超出的部分就隐藏 */
+
+    font-family: 宋体;
+    font-size: 14px;
+    color: white;
+    /* 字体, 字体大小, 字体颜色*/
+
+}
+
+.Link a{
+    padding: 5px;
+    color: white;
+}
+
+.Link a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+
+/* 描述. 如"海外影视翻译下载站" */
+.Description{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-bottom: 8px;
+
+    width: 138px;
+    height: 17px;
+
+    text-align: center;
+
+    font-family: 新宋体;
+    font-size: 12px;
+
+}
+
+
+
+
+
+
+
+/* 蓝色标题 */
+.Blue_t{
+    background-color: #1584bc;
+}
+/* 蓝色描述 */
+.Blue_d{
+    color: #1584bc;
+    background-color: #a9d6ec;
+}
+
+
+/* 红色标题 */
+.Red_t{
+    background-color: #d82828;
+}
+/* 红色描述 */
+.Red_d{
+    color: #d82828;
+    background-color: #f69675;
+}
+
+
+/* 绿色标题 */
+.Green_t{
+    background-color: #5b9b00;
+}
+/* 绿色描述 */
+.Green_d{
+    color: #5b9b00;
+    background-color: #94d54e;
+}
+
+
+
+
+/* 黄色标题 */
+.Yellow_t{
+    background-color: #f27800;
+}
+/* 黄色描述 */
+.Yellow_d{
+    color: #f27800;
+    background-color: #fdae61;
+}
+
+
+
+/* 深蓝色标题 */
+.DarkBlue_t{
+    background-color: #2b5798;
+}
+/* 深蓝色描述 */
+.DarkBlue_d{
+    color: #2b5798;
+    background-color: #b1cff8;
+}
+
+/* 深黄色标题 */
+.DarkYellow_t{
+    background-color: #cf8800;
+}
+/* 深黄色描述 */
+.DarkYellow_d{
+    color: #cf8800;
+    background-color: #fcda54;
+}
+
+
+
+
+
+
+
+
+/* =====知识讲解===== */
+#Knowledge{
+    margin-bottom: 15px;
+}
+
+
+#Knowledge ul{
+    padding: 5px 0px;
+    margin: 0;
+}
+
+
+#Knowledge ul li{
+    padding-top: 8px;
+    padding-bottom: 4px;
+    border-bottom: 1px dotted gray;
+    border-width:thin;
+    /*background-color:red;*/
+    margin:0 10px;
+}
+
+#Knowledge ul li:last-child{
+    border-bottom: 0;
+}
+
+
+
+#Knowledge ul li a{
+    font-size: 12px;
+    color: #3d3d3d;
+}
+
+
+
+
+
+
+
+
+/* =====实用工具======= */
+
+
+#Tool{
+    padding: 10px;
+    font-family: 新宋体;
+}
+
+#Tool li{
+    height: 50px;
+}
+
+
+
+.left_item{
+    width:10%; 
+    display:inline-block;
+    position:relative; 
+    top:-11px;
+}
+
+.right_item{
+    width:80%; 
+    height:40px; 
+    display:inline-block;
+    margin-left: 3px; 
+}
+
+.right_item_up{
+    width:100%; 
+    height:20px; 
+    line-height:20px; 
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+.right_item_down{
+    width:100%; 
+    height:20px; 
+    line-height:20px;
+    font-size: 12px; 
+}
+
+
+
+
+/* =====实用工具 结束======= */
+
+
+
+
+
+
+
+
+/* ======== 主体内容结束 ====== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*========================页尾=======================*/
+
+footer{
+    width: 100%;
+    margin-top: 30px;
+
+    border-top: 2px solid #1e98b6;   /* 顶部的边线 */
+    text-align: center;   /* 文字居中 */
+
+    background-color: #cbe2f2; /* 背景颜色 */
+
+    padding-top: 5px;       /* 上内边距 */
+    padding-bottom: 5px;    /* 下内边距 */
+
+
+    font-family: 新宋体;
+    font-size: 12px;
+    color: #2c2c2c;
+}

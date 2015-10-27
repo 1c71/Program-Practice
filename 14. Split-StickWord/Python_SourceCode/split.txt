@@ -1,0 +1,7172 @@
+﻿
+# 井号开头的内容会被当作注释, 不会影响程序的执行. 比如这一行
+# 单词之间不一定要有回车隔开, 就算不隔开也不影响程序.. 隔开只是为了美观
+# anyline start with #, will not process.. just like code comment
+# between english word, not nessly have breakline.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+theplace
+the place
+
+
+
+getat
+get at
+outhow
+out how
+
+
+determinewhether
+determine whether
+
+
+
+seriesof
+series of
+
+apopulation
+a population
+
+thatfor
+that for
+
+
+
+theother
+the other
+
+thevariety
+the variety
+
+toadapt
+to adapt
+
+
+importantbecause
+important because
+
+
+biologistsand
+biologists and
+
+waysof
+ways of
+
+itbecause
+it because
+
+
+couldbe
+could be
+
+
+
+
+isin
+is in
+
+
+thathappens
+that happens
+
+
+
+
+
+tosave
+to save
+
+
+
+makingare
+making are
+
+
+
+
+
+theycan't
+they can't
+
+
+
+
+we'realso
+we're also
+
+
+
+cancause
+can cause
+
+
+
+
+
+ofsome
+of some
+
+
+theland
+the land
+
+
+
+anotherimportant
+another important
+
+
+
+
+
+andthe
+and the
+
+
+awhole
+a whole
+
+
+
+
+haveheard
+have heard
+
+wecome
+we come
+
+
+
+
+thatyou've
+that you've
+
+
+foundin
+found in
+
+onepoint
+one point
+
+thishappening
+this happening
+
+basicallythe
+basically the
+
+
+atype
+a type
+
+otherisn't
+other isn't
+
+
+
+
+
+
+
+thesesystems
+these systems
+
+
+
+keepingthem
+keeping them
+
+
+theextinction
+the extinction
+
+
+
+
+questionthat
+question that
+
+
+
+
+
+
+
+
+thinggoes
+thing goes
+
+
+aredissolved
+are dissolved
+
+
+
+alot
+a lot
+
+intothe
+into the
+
+miracleof
+miracle of
+
+
+seesomething
+see something
+
+
+
+
+fewminutes
+few minutes
+
+
+onEarth
+on Earth
+
+helpeda
+helped a
+
+
+
+
+ofproblems
+of problems
+
+alsoreleases
+also releases
+
+
+
+
+
+goodamount
+good amount
+
+
+makelike
+make like
+
+
+
+
+
+
+someof
+some of
+
+
+
+
+onlyabout
+only about
+
+abouthalf
+about half
+
+
+
+
+aboutwhat
+about what
+
+coupleof
+couple of
+
+
+muchbe
+much be
+
+basicallyyour
+basically your
+
+meanthat
+mean that
+
+
+whatthey
+what they
+
+
+
+wantto
+want to
+
+
+
+morelike
+more like
+
+
+havehad
+have had
+
+atree
+a tree
+
+whatkinds
+what kinds
+
+manyalso
+many also
+
+whichwere
+which were
+
+theonly
+the only
+
+seemlike
+seem like
+
+naturalselection
+natural selection
+
+
+
+
+
+
+couldcontribute
+could contribute
+
+ofyears
+of years
+
+
+it'sa
+it's a
+
+staythe
+stay the
+
+livingworld
+living world
+
+whatwe'll
+what we'll
+
+theyate
+they ate
+
+otherisn't
+other isn't
+
+itmany
+it many
+
+heardabout
+heard about
+
+nextweek
+next week
+
+theparts
+the parts
+
+
+thoughtthat
+thought that
+
+therewere
+there were
+
+cometo
+come to
+
+thatthey
+that they
+
+ifwe're
+if we're
+
+
+successfuland
+successful and
+becausethey're
+because they're
+
+they'regoing
+they're going
+
+
+
+interactionis
+interaction is
+
+prettydangerous
+pretty dangerous
+
+itis
+it is
+
+areally
+a really
+
+tobe
+to be
+
+ifI
+if I
+
+
+
+
+ofparticles
+of particles
+
+differentways
+different ways
+
+freeto
+free to
+
+
+
+
+severaldifferent
+several different
+likeI
+like I
+
+howan
+how an
+
+bunchesof
+bunches of
+
+
+makesomething
+make something
+ableto
+able to
+issmall
+is small
+
+isbig
+is big
+
+itkeeps
+it keeps
+agiant
+a giant
+
+theseafood
+the seafood
+
+toeat
+to eat
+
+orcomments
+or comments
+
+whohelped
+who helped
+
+considerationthat
+consideration that
+
+
+
+
+
+computerprograms
+computer programs
+tobeing
+to being
+
+familiarwith
+familiar with
+
+wejust
+we just
+
+
+aboutthe
+about the
+
+aboutthem
+about them
+
+
+
+
+otheranimals
+other animals
+
+thatcan't
+that can't
+
+thatallows
+that allows
+
+animalsto
+animals to
+
+theman
+the man
+
+thewoman
+the woman
+
+
+
+
+
+
+makesits
+makes its
+
+thisall
+this all
+
+withare
+with are
+pointingout
+pointing out
+
+veryfew
+very few
+
+lotof
+lot of
+
+
+
+whilethe
+while the
+
+arereally
+are really
+
+themost
+the most
+
+otheranimals
+other animals
+
+thatwe've
+that we've
+wedescribe
+we describe
+
+
+ofthe
+of the
+
+oneor
+one or
+
+andit's
+and it's
+
+
+that'salways
+that's always
+
+bothof
+both of
+
+whichalso
+which also
+
+findour
+find our
+
+thattheir
+that their
+
+
+
+seenbefore
+seen before
+
+gettingthose
+getting those
+
+
+whywould
+why would
+
+
+
+
+
+
+
+
+
+don'texist
+don't exist
+
+thingsstart
+things start
+
+ofis
+of is
+
+
+
+
+thatallow
+that allow
+
+itis
+it is
+
+
+becomemore
+become more
+
+knowwhere
+know where
+
+
+sinceI
+since I
+
+whenyou're
+when you're
+
+waswhen
+was when
+
+seebecause
+see because
+
+andthey've
+and they've
+
+somethingabout
+something about
+
+theytotally
+they totally
+
+ofa
+of a
+
+puttheir
+put their
+
+
+
+
+
+anythingwe
+anything we
+
+
+
+
+
+
+
+
+aroundin
+around in
+
+whenthis
+when this
+
+thatyour
+that your
+
+thatcan
+that can
+
+makethings
+make things
+
+thencarry
+then carry
+
+arealways
+are always
+
+youwould
+you would
+
+
+
+
+
+
+whichdon't
+which don't
+
+movethrough
+move through
+
+aboutit
+about it
+
+wasa
+was a
+
+isa
+is a
+
+processis
+process is
+
+helpsyour
+helps your
+
+inthe
+in the
+
+likesome
+like some
+
+feela
+feel a
+
+theanimal
+the animal
+
+becauseyour
+because your
+
+withus
+with us
+
+Ihad
+I had
+
+takea
+take a
+
+thatdo
+that do
+
+allthat
+all that
+
+findingthat
+finding that
+
+toomuch
+too much
+
+toturn
+to turn
+
+foodthat
+food that
+
+blocksthe
+blocks the
+
+muchto
+much to
+
+that'swhy 
+that's why 
+
+
+outsidehere
+outside here
+
+workto
+work to
+
+
+areaof
+area of
+
+themdown
+them down
+
+havemade
+have made
+
+tosuccessful
+to successful
+
+
+
+thinkabout
+think about
+
+
+
+
+
+laststep
+last step
+
+itup
+it up
+
+butbefore
+but before
+
+hasa
+has a
+
+burnsoff
+burns off
+
+wouldhappen
+would happen
+
+thestuff
+the stuff
+
+thescience
+the science
+
+tryto
+try to
+
+scienceof
+science of
+
+betterthan
+better than
+
+onfire
+on fire
+
+
+
+
+
+
+
+sittingin
+sitting in
+
+willkeep
+will keep
+
+
+
+arecompletely
+are completely
+
+
+
+
+
+
+noware
+now are
+
+
+
+takethis
+take this
+
+
+reallygot
+really got
+
+
+
+
+
+maybeget
+maybe get
+
+
+
+andgo
+and go
+
+
+fireextinguisher
+fire extinguisher
+
+andhigher
+and higher
+
+thanI'd 
+than I'd
+
+
+
+ceilingsthat
+ceilings that
+
+
+
+
+
+
+canfind
+can find
+
+thesetoday
+these today
+
+
+thebest
+the best
+
+
+I'mnot
+I'm not
+
+
+
+whathappens
+what happens
+
+
+addmore
+add more
+
+
+waterin
+water in
+
+that'sin
+that's in
+
+Isaid
+I said
+
+actuallyright
+actually right
+
+partsof
+parts of
+
+rubbingalcohol
+rubbing alcohol
+
+whatwould
+what would
+
+you'renot
+you're not
+
+wouldtake
+would take
+
+canprobably
+can probably
+
+
+
+thinkthat
+think that
+
+
+ontop
+on top
+
+
+
+
+withpure
+with pure
+
+
+
+whatthat
+what that
+
+
+
+
+havebeen
+have been
+
+
+itexactly
+it exactly
+
+thematerials
+the materials
+
+itand
+it and
+
+theside
+the side
+
+flammablematerial
+flammable material
+
+borrowsome
+borrow some
+
+somethingthat
+something that
+
+thingswe
+things we
+
+
+
+
+
+
+
+
+
+
+iscareless
+is careless
+
+youto
+you to
+
+anythingat
+anything at
+youcan't
+you can't
+episodewhere
+episode where
+areso
+are so
+
+it'snot
+it's not
+
+thosebehaviors
+those behaviors
+
+thatlearn
+that learn
+
+
+hasfavored
+has favored
+
+
+
+
+meanall
+mean all
+
+areoften
+are often
+
+
+
+needthe
+need the
+
+
+
+
+
+
+
+
+
+
+firstquestion
+first question
+
+askthese
+ask these
+
+
+itscost
+its cost
+
+amale
+a male
+
+thanother
+than other
+
+
+
+
+willfind
+will find
+
+interestingbehaviors
+interesting behaviors
+
+ananimal
+an animal
+
+
+theirassociated
+their associated
+
+
+friendthe
+friend the
+
+
+
+behaviorslike
+behaviors like
+
+
+
+
+
+
+
+
+
+
+behaviorhelps
+behavior helps
+
+requiresasking
+requires asking
+
+
+
+
+
+
+
+
+
+questionof
+question of
+
+
+
+
+
+circulatorysystems
+circulatory systems
+
+
+
+
+
+
+doall
+do all
+
+
+
+
+
+
+andenergy
+and energy
+
+
+producethe
+produce the
+
+
+
+addssupport
+adds support
+
+sucha
+such a
+
+somethingas
+something as
+
+
+tissueand
+tissue and
+
+asa
+as a
+
+therecessive
+the recessive
+
+
+alleleof
+allele of
+
+thatchange
+that change
+
+
+
+thenthrough
+then through
+
+
+everythingnow
+everything now
+
+
+
+
+
+
+
+
+
+
+
+lookingat
+looking at
+
+
+witheach
+with each
+
+
+bagof
+bag of
+
+iswhere
+is where
+
+thething
+the thing
+
+
+
+
+
+
+completelyforget
+completely forget
+
+
+
+
+ifthe
+if the
+sameequation
+same equation
+
+
+thealleles
+the alleles
+
+
+quicklyif
+quickly if
+
+chromosomesthat
+chromosomes that
+
+onthese
+on these
+
+
+
+
+luckof
+luck of
+
+
+
+
+
+
+
+
+
+madefrom
+made from
+
+sourceof
+source of
+
+
+producedby
+produced by
+
+inreturn
+in return
+
+ourbad
+our bad
+
+pillarsof
+pillars of
+
+bemoved
+be moved
+
+fromeach
+from each
+
+placewith
+place with
+
+theprevious
+the previous
+
+cellsrequires
+cells requires
+
+tomitosis
+to mitosis
+
+diploidcell
+diploid cell
+
+thenucleus
+the nucleus
+
+combineto
+combine to
+
+veryspecial
+very special
+
+
+beforethey
+before they
+
+ofchromosomes
+of chromosomes
+
+
+reviewthere's
+review there's
+
+repeatanything
+repeat anything
+
+cousinsabout
+cousins about
+
+
+becomespecialized
+become specialized
+
+
+
+
+
+
+
+armwrestling
+arm wrestling
+
+
+totallyoutnumber
+totally outnumber
+
+
+
+
+knownanimal
+known animal
+
+oron
+or on
+
+
+
+
+
+
+
+wasdifferent
+was different
+
+
+
+
+
+
+atrip
+a trip
+
+someother
+some other
+
+
+
+mainexplanation
+main explanation
+
+
+divergeinto
+diverge into
+
+
+
+
+
+
+
+
+
+incrediblyslow
+incredibly slow
+
+
+processthat
+process that
+
+
+
+alsoobviously
+also obviously
+
+prettysimilar
+pretty similar
+
+
+
+
+
+
+
+didn'tkeep
+didn't keep
+
+
+
+
+onebefore
+one before
+
+whatwas
+what was
+
+thathas
+that has
+
+alsoaccumulate
+also accumulate
+
+willeventually
+will eventually
+
+thoseguys
+those guys
+
+thisside
+this side
+
+oneside
+one side
+
+
+
+
+
+differenton
+different on
+
+
+
+
+
+
+
+
+
+speciesend
+species end
+
+
+
+longerget
+longer get
+
+
+distancesor
+distances or
+
+thepopulations
+the populations
+
+isolatedcan
+isolated can
+
+becomenocturnal
+become nocturnal
+
+speciesthat
+species that
+
+tomiscarriage
+to miscarriage
+
+zygoticisolation
+zygotic isolation
+
+geneticinstructions
+genetic instructions
+
+knowof
+know of
+
+productof
+product of
+
+
+
+
+
+
+
+everysingle
+every single
+
+turnthe
+turn the
+
+upperhand
+upper hand
+
+butthey
+but they
+
+waysthat
+ways that
+
+asit
+as it
+
+
+
+
+
+exampleof
+example of
+
+
+
+becausethere
+because there
+
+outwhat
+out what
+
+
+thesefamous
+these famous
+
+
+
+
+
+
+
+eachside
+each side
+
+
+
+thesugar
+the sugar
+
+
+
+
+overa
+over a
+
+
+
+
+
+
+
+
+
+
+
+
+reallybig
+really big
+
+
+shapesand
+shapes and
+
+
+cellinto
+cell into
+
+
+
+
+
+oron
+or on
+
+
+
+verysimplest
+very simplest
+
+
+
+
+
+
+
+
+theidea
+the idea
+
+thingthat
+thing that
+
+havea
+have a
+
+applyingforce
+applying force
+
+offthe
+off the
+
+formsthat
+forms that
+
+formsaren
+forms aren
+
+groundor
+ground or
+
+surroundingsband
+surroundings band
+
+thatsomebody
+that somebody
+
+
+dojust
+do just
+
+locomotionthat
+locomotion that
+
+signthat
+sign that
+
+
+thekingdom
+the kingdom
+
+
+
+
+andour
+and our
+
+
+
+amuscular
+a muscular
+
+questionsget
+questions get
+
+thataims
+that aims
+
+reallyaware
+really aware
+
+
+competingimpulses
+competing impulses
+
+innature
+in nature
+
+shoppingfor
+shopping for
+
+populationof
+population of
+
+undergoingprobably
+undergoing probably
+
+
+populationhad
+population had
+
+
+
+
+proportionalto
+proportional to
+
+
+
+
+moredangerous
+more dangerous
+
+fascinatescientists
+fascinate scientists
+
+theconcept
+the concept
+
+adaptationslike
+adaptations like
+
+butby
+but by
+
+nutritionfrom
+nutrition from
+
+isn'tjust
+isn't just
+
+sheepcan
+sheep can
+
+
+
+pressuresthat
+pressures that
+
+
+speciesinteract
+species interact
+
+
+
+captivatedby
+captivated by
+
+apexpredators
+apex predators
+
+usthe
+us the
+
+questionsor
+questions or
+
+thepart
+the part
+
+putthis
+put this
+
+thecompetitive
+the competitive
+
+relatedspecies
+related species
+
+thatpitted
+that pitted
+
+
+
+
+
+reallyit
+really it
+
+
+speciesinteraction
+species interaction
+
+
+competitiongoing
+competition going
+
+
+
+usuallythink
+usually think
+
+
+
+
+
+thatcommunity
+that community
+
+theytake
+they take
+
+
+
+rottinglog
+rotting log
+
+
+
+interactionsbetween
+interactions between
+
+
+interactwhen
+interact when
+
+
+
+spreadour
+spread our
+
+
+
+amountof
+amount of
+
+
+
+tocompete
+to compete
+
+
+thosethings
+those things
+
+
+
+
+
+
+aboutsex
+about sex
+
+alwayssay
+always say
+
+
+
+outfor
+out for
+
+ifyou
+if you
+individualsliving
+individuals living
+
+infectionsspread
+infections spread
+
+alsobe
+also be
+
+vertebratesto
+vertebrates to
+hypotheticallythat
+hypothetically that
+
+similarexplosion
+similar explosion
+
+officialflying
+official flying
+
+factorthat
+factor that
+
+habitat'scarrying
+habitat's carrying
+limitingfactor
+limiting factor
+
+
+withhow 
+with how 
+
+
+volcaniceruption
+volcanic eruption
+
+
+crucialaspect
+crucial aspect
+
+clutchesof
+clutches of
+
+
+don'thave
+don't have
+
+
+
+
+temperatureswing
+temperature swing
+
+
+abillion
+a billion
+
+couldlead
+could lead
+
+collapsingbecause
+collapsing because
+
+
+jobto
+job to
+
+thatany
+that any
+
+
+meansthat
+means that
+
+
+
+
+
+
+
+asmany
+as many
+
+
+thatdoesn't
+that doesn't
+
+
+whichpoint
+which point
+
+
+tothe
+to the
+
+
+
+
+
+
+
+
+thattakes
+that takes
+
+
+
+
+
+
+
+
+exponentialgrowth
+exponential growth
+
+graphflattens
+graph flattens
+
+thosefactors
+those factors
+
+populationis
+population is
+
+
+
+
+
+
+createsthat
+creates that
+
+
+hypotheticalnumbers
+hypothetical numbers
+
+mosquitoout
+mosquito out
+
+istotally
+is totally
+
+wetalk
+we talk
+
+
+everyonewho
+everyone who
+
+
+somany
+so many
+
+
+helpskeep
+helps keep
+
+upthe
+up the
+
+
+simplynot
+simply not
+
+
+
+
+limitingfactor
+limiting factor
+
+doesn'tusually
+doesn't usually
+
+prettyintuitive
+pretty intuitive
+
+manymosquitoes
+many mosquitoes
+
+mightcome
+might come
+
+
+changesdue
+changes due
+
+abouta
+about a
+
+understandwhy
+understand why
+
+withfor
+with for
+
+individualswho
+individuals who
+
+facetime
+face time
+
+interacthas
+interact has
+
+whointeract
+who interact
+
+isjust
+is just
+
+
+
+
+
+
+
+wayuseful
+way useful
+
+understandwhy
+understand why
+
+aspecies
+a species
+
+allliving
+all living
+
+
+outwe
+out we
+
+howthey
+how they
+
+
+ofdifferent
+of different
+
+
+
+
+
+togetherin
+together in
+
+
+
+
+wholerange 
+whole range 
+
+physiologyof
+physiology of
+
+
+understandingthe
+understanding the
+
+
+
+what'sgoing
+what's going
+
+canlook
+can look
+
+fundamentalprinciples
+fundamental principles
+
+wallslike
+walls like
+
+
+diedfrom
+died from
+
+
+superuseful
+super useful
+
+
+stateof
+state of
+
+amosquito
+a mosquito
+
+mosquitoesin
+mosquitoes in
+
+anydisease
+any disease
+
+theherbivores 
+the herbivores
+
+significantextinction
+significant extinction
+
+
+plantsevolved
+plants evolved
+
+
+
+somuch
+so much
+
+
+vertebratesthat
+vertebrates that
+
+climateand
+climate and
+
+betweenpredators
+between predators
+
+othersdeveloped
+others developed
+
+CambrianExplosion
+Cambrian Explosion
+
+
+hadnever
+had never
+
+skeletonhand
+skeleton hand
+
+untilaround
+until around
+
+andplastids
+and plastids
+
+theparasite
+the parasite
+
+firstmajor
+first major
+
+includeall
+include all
+
+therethat
+there that
+
+
+cyanobacteriawere
+cyanobacteria were
+
+likelyproduced
+likely produced
+
+periodof
+period of
+
+suddenlyshot
+suddenly shot
+
+
+weirdhappened
+weird happened
+
+
+wereall
+were all
+
+reviewanything
+review anything
+arehaving
+are having
+
+
+
+kidsto
+kids to
+morechoices
+more choices
+
+moneylike
+money like
+
+tochoose
+to choose
+
+calledculture
+called culture
+
+lotmore
+lot more
+
+fewerresources
+fewer resources
+
+competewith
+compete with
+nobody'ssure
+nobody's sure
+
+LeeuwenhoekHimself
+Leeuwenhoek Himself
+
+thiscan't
+this can't
+
+
+
+
+doeshave
+does have
+
+
+
+orideas
+or ideas
+
+
+
+
+
+
+topretty
+to pretty
+
+theirown
+their own
+
+
+
+tonof
+ton of
+
+
+trucksthat
+trucks that
+
+
+
+
+
+humansreproduce
+humans reproduce
+
+mammalswho
+mammals who
+
+
+
+thosekids
+those kids
+
+
+
+
+
+
+
+selectedanimals
+selected animals
+
+geteaten
+get eaten
+
+
+habitatcan
+habitat can
+
+
+andjust
+and just
+
+
+
+
+
+
+
+
+
+
+
+
+weresome
+were some
+
+contentsis
+contents is
+
+
+andTwitter
+and Twitter
+
+
+likeover
+like over
+
+
+hypotheticalnumbers
+hypothetical numbers
+
+
+mosquitoout
+mosquito out
+
+
+
+
+
+
+
+
+mosquitoeslives
+mosquitoes lives
+
+
+somany
+so many
+
+simplynot
+simply not
+
+limitationsare
+limitations are
+
+
+anythingmosquito
+anything mosquito
+
+
+stresscaused
+stress caused
+
+
+
+
+laytheir
+lay their
+
+wallslike
+walls like
+
+
+anythingmosquito
+anything mosquito
+
+what'sgoing
+what's going
+
+
+togetherin
+together in
+
+
+outwe
+out we
+
+
+Becauseyou
+Because you
+
+ofchoices
+of choices
+
+
+
+itback
+it back
+
+byItalian
+by Italian
+
+TheorySays
+Theory Says
+
+physiologyof
+physiology of
+
+
+
+greatvehicle
+great vehicle
+
+
+lotmore
+lot more
+
+
+
+
+anotherecological
+another ecological
+
+
+
+
+
+anythingthat
+anything that
+
+
+veryfirst
+very first
+
+
+
+andhow
+and how
+
+
+dinosout
+dinos out
+
+
+providingus
+providing us
+
+
+
+orcomments
+or comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+studyingtheir
+studying their
+
+
+
+eatthe
+eat the
+
+
+birdswere
+birds were
+
+floraand
+flora and
+
+
+
+
+
+
+
+
+
+
+
+
+dinosaursand
+dinosaurs and
+
+
+thisparty
+this party
+
+
+
+yearsago
+years ago
+
+yearago
+year ago
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+allgenera
+all genera
+
+
+significantextinction
+significant extinction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+untilabout
+until about
+
+gasexplosions
+gas explosions
+
+thereason
+the reason
+
+
+
+
+whathappened
+what happened
+
+
+
+who'sexploiting
+who's exploiting
+
+
+
+
+
+somuch
+so much
+
+
+andspruces
+and spruces
+
+oxygenrather
+oxygen rather
+
+
+coolingthe
+cooling the
+
+
+
+
+
+
+
+
+
+
+seeecological
+see ecological
+
+takea
+take a
+
+
+
+hadnever
+had never
+
+
+
+
+
+it'scalled
+it's called
+
+
+atmosphericconcentration
+atmospheric concentration
+
+
+
+cyanobacteriawere
+cyanobacteria were
+
+
+
+
+
+joinedup
+joined up
+
+
+
+sectionof
+section of
+
+enzymecalled
+enzyme called
+
+wasor
+was or
+
+figurethat
+figure that
+
+becomeknown
+become known
+
+yougive
+you give
+
+shortstrand
+short strand
+
+DNAjust
+DNA just
+
+ofcell
+of cell
+
+inreturn
+in return
+
+intochromatin
+into chromatin
+
+apartinto
+apart into
+
+
+
+moreabout
+more about
+
+goinginto
+going into
+
+
+stuckwith
+stuck with
+
+anythingyou
+anything you
+
+madefrom
+made from
+
+
+
+chromosomesand
+chromosomes and
+
+
+shortand
+short and
+
+anotherkind
+another kind
+
+headingto
+heading to
+
+anotherround
+another round
+
+comesup
+comes up
+
+upnext
+up next
+
+withthe
+with the
+
+thatwe're
+that we're
+
+suitablyimpressed
+suitably impressed
+
+waybetter
+way better
+
+onlearning
+on learning
+
+reallyexcited
+really excited
+
+onFacebook
+on Facebook
+
+onTwitter
+on Twitter
+
+madAssassin
+mad Assassin
+
+
+areuseful
+are useful
+
+areuseless
+are useless
+
+wheator
+wheat or
+
+centromeresthey
+centromeres they
+
+
+linesup
+lines up
+
+alreadyswapped
+already swapped
+
+
+
+bodiesactually
+bodies actually
+
+
+
+thevast
+the vast
+
+mayhave
+may have
+
+
+
+
+doesn'talways
+doesn't always
+
+firstround
+first round
+
+
+
+cellscontain
+cells contain
+
+
+
+
+
+
+andhomologous
+and homologous
+
+hereis
+here is
+
+
+
+singlechromosome
+single chromosome
+
+
+copiesend
+copie send
+
+linkedto
+linked to
+
+upits
+up its
+
+doesn'talways
+doesn't always
+
+upin
+up in
+
+thefour
+the four
+
+inmitosis
+in mitosis
+
+
+thenpulled
+then pulled
+
+
+
+combinationson
+combinations on
+
+
+
+calledeither
+called either
+
+thesame
+the same
+
+
+
+
+chromosomesare
+chromosomes are
+
+
+
+
+areeach
+are each
+
+
+Johnand
+John and
+
+aren'tall
+aren't all
+
+andwe
+and we
+
+
+
+
+
+
+
+
+
+personallyinterested
+personally interested
+
+
+
+aboutstuff
+about stuff
+
+
+
+
+makethe
+make the
+
+
+
+
+
+
+
+
+
+
+
+
+embryonicdevelopment
+embryonic development
+
+
+
+
+
+don'ttake
+don't take
+
+dowith
+do with
+
+thatevery
+that every
+
+usthat
+us that
+
+
+thefact
+the fact
+
+
+ideaand
+idea and
+
+
+giantimpression
+giant impression
+
+howcool
+how cool
+
+mammalor
+mammal or
+
+Darwinsaid
+Darwin said
+
+
+yearslater
+years later
+
+yearlater
+year later
+
+
+realscience
+real science
+
+embryosstarted
+embryos started
+
+ofperson
+of person
+
+andin
+and in
+
+endup
+end up
+
+esophagusand
+esophagus and
+
+lookinglike
+looking like
+
+
+
+
+
+
+
+theorifice
+the orifice
+
+
+
+
+canhappen
+can happen
+
+
+animalthis
+animal this
+
+
+andanus
+and anus
+
+
+developmentstops
+development stops
+
+radiatesout
+radiates out
+
+
+it'snamed
+it's named
+
+itnamed
+it named
+
+
+toban
+to ban
+
+
+
+littlebit
+little bit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THATWITH
+that with
+
+whatkind
+what kind
+
+
+complexityinclude
+complexity include
+
+
+reallyhave
+really have
+
+
+
+
+
+aboutanimal
+about animal
+
+gothrough
+go through
+
+
+spermfertilizing
+sperm fertilizing
+
+embryonicgroundwork
+embryonic groundwork
+
+
+
+
+
+oftissue
+of tissue
+
+developmentare
+development are
+
+
+
+morecomplicated
+more complicated
+
+everythingto
+everything to
+
+
+
+
+
+
+
+
+surfersmoved
+surfers moved
+
+
+atime
+a time
+
+overtheir
+over their
+
+whenthings
+when things
+
+thatwould
+that would
+
+
+ishomozygous
+is homozygous
+
+andactually
+and actually
+
+wherethose
+where those
+
+
+
+
+
+allelefrequency
+allele frequency
+
+
+FuriousMovies
+Furious Movies
+
+
+anyof
+any of
+
+
+abouteach
+about each
+
+
+
+justre
+just re
+
+
+
+
+manydifferent
+many different
+
+lotsof
+lots of
+
+
+worktogether
+work together
+
+
+adigestive
+a digestive
+
+
+
+
+
+thenorganized
+then organized
+
+
+
+longestword
+longest word
+
+
+
+
+
+
+
+
+tissueisn't
+tissue isn't
+
+
+organand
+organ and
+
+andstuff
+and stuff
+
+
+otherlike
+other like
+
+
+
+
+
+
+isperformed
+is performed
+
+
+muchthe
+much the
+
+
+differentstrategies
+different strategies
+
+isformed
+is formed
+
+becareful
+be careful
+
+applyforce
+apply force
+
+
+dispersingtheir
+dispersing their
+
+
+studiowith
+studio with
+
+
+
+
+comeby
+come by
+
+whatyou're 
+what you're 
+
+
+matesand
+mates and
+
+closelyrelated
+closely related
+
+andarchaea
+and archaea
+
+evolutionaryhis
+evolutionary his
+
+moreof
+more of
+
+twoliving
+two living
+
+treewith
+tree with
+
+transmitselectrochemical
+transmits electrochemical
+
+tomeet
+to meet
+
+ofsimilarities
+of similarities
+
+metalk
+me talk
+
+propellingthose
+propelling those
+
+abird
+a bird
+
+thoughsimilar
+though similar
+
+notablebeing
+notable being
+
+outlinedhis
+outlined his
+
+hispapers
+his papers
+
+kindsof
+kinds of
+
+asproof
+as proof
+
+untilThomas
+until Thomas
+
+tookto
+took to
+
+
+
+promotethe
+promote the
+
+
+obvioussimilarities
+obvious similarities
+inlove
+in love
+
+bodywhen
+body when
+
+
+
+
+
+
+everget
+ever get
+
+
+
+
+
+
+
+systemthat
+system that
+
+
+allyour
+all your
+
+withoutthinking
+without thinking
+
+
+
+
+
+
+preparesour
+prepares our
+
+
+
+ofexposed
+of exposed
+
+partby
+part by
+
+
+
+rememberthat
+remember that
+
+
+
+
+
+
+
+
+isabout
+is about
+
+synapseto
+synapse to
+
+
+lookat
+look at
+
+manysodium
+many sodium
+
+
+
+
+
+brainthat
+brain that
+
+
+
+
+I'mgoing
+I'm going
+
+
+
+
+
+
+
+
+
+
+intotwo
+into two
+
+transmitselectrochemical
+transmits electrochemical
+
+
+
+there'spizza
+there's pizza
+
+
+
+
+nervoussystem
+nervous system
+
+fromour
+from our
+
+
+fromhim
+from him
+
+
+provento
+proven to
+
+
+
+
+abillion
+a billion
+
+amillion
+a million
+
+
+groupsthat
+groups that
+
+
+don'tbother
+don't bother
+
+
+toparalyze
+to paralyze
+
+
+insectsand
+insects and
+
+
+basicallyevolved
+basically evolved
+
+
+leavepiles
+leave piles
+
+
+thesynapomorphy
+the synapomorphy
+
+
+
+
+extensionsof
+extensions of
+
+
+whichhave
+which have
+
+thinkwe
+think we
+
+
+thembelow
+them below
+
+ourlittle
+our little
+
+havethree
+have three
+
+theresemblance
+the resemblance
+
+typesof
+types of
+
+takingthis
+taking this
+
+betweensegments
+between segments
+
+tocrazy
+to crazy
+
+gota
+got a
+
+thingson
+things on
+
+theearliest
+the earliest
+
+comefrom
+come from
+
+comesfrom
+comes from
+
+supermonk
+super monk
+
+andhere
+and here
+
+chosento
+chosen to
+
+
+whichhe
+which he
+
+
+individualsof
+individuals of
+
+animalsthe
+animals the
+
+recessiveis
+recessive is
+
+
+issimply
+is simply
+
+
+
+thatsexual
+that sexual
+
+
+
+ofNatural
+of Natural
+
+systemswe've
+systems we've
+
+
+
+oneversion
+one version
+
+
+toa
+to a
+
+
+
+
+asamphibians
+as amphibians
+
+likeamphibians
+like amphibians
+
+
+
+
+ourblood
+our blood
+
+
+
+combiningammonia
+combining ammonia
+
+
+
+
+
+
+
+
+
+totwitter
+to twitter
+
+toyoutube
+to youtube
+
+
+
+
+
+modificationsare
+modifications are
+
+
+
+
+
+
+
+
+
+
+
+
+
+youexcretory
+you excretory
+
+yourexcretory
+your excretory
+
+
+
+
+
+
+themedulla
+the medulla
+
+
+
+
+
+
+amountsof
+amounts of
+
+
+
+
+discoveredby
+discovered by
+
+
+isconsidered
+is considered
+
+
+
+
+ofkidney
+of kidney
+
+
+
+thefluid
+the fluid
+
+andthere
+and there
+
+
+
+ideathat
+idea that
+
+
+Allelesfor
+Alleles for
+
+
+
+becompletely
+be completely
+
+
+
+
+
+
+
+
+
+
+
+
+
+animalsconvert
+animals convert
+
+
+thebird
+the bird
+
+thewater
+the water
+
+
+
+earthis
+earth is
+
+windis
+wind is
+
+
+wateris
+water is
+
+fireis
+fire is
+
+
+woodis
+wood is
+
+
+
+
+
+
+foryou
+for you
+
+
+forlove
+for love
+
+
+
+forus
+for us
+
+forhim
+for him
+
+littlesample
+little sample
+
+madeup
+made up
+
+
+
+
+
+wedon't
+we don't
+
+
+
+thewriters
+the writers
+
+
+
+thatthis
+that this
+
+
+hedon't
+he don't
+
+shedon't
+she don't
+
+theydon't
+they don't
+
+moreBiology
+more Biology
+
+theurine
+the urine
+
+thecenter
+the center
+
+waterone
+water one
+
+
+
+goingdown
+going down
+
+thattell
+that tell
+
+
+itworks
+it works
+
+
+
+
+closelook
+close look
+
+
+alsomaking
+also making
+
+
+
+
+bodiesthrough
+bodies through
+
+
+don'tneed
+don't need
+
+
+waterand
+water and
+
+
+
+actuallyjust
+actually just
+
+
+don'tmind
+don't mind
+
+
+abetter
+a better
+
+
+
+
+thedigestive
+the digestive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maintainthis
+maintain this
+
+andmost
+and most
+
+
+
+areor
+are or
+
+foodand
+food and
+
+
+isits
+is its
+
+
+
+
+
+
+
+theworld
+the world
+
+
+ofour
+of our
+
+
+contentsjust
+contents just
+
+
+isspent
+is spent
+
+througheverybody
+through everybody
+
+detailsof
+details of
+
+expertswill
+experts will
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+systemswork
+systems work
+
+
+toabsorb
+to absorb
+
+averagehuman
+average human
+
+
+
+
+difficultyworking
+difficulty working
+
+
+
+becausemost
+because most
+
+
+thecellulose
+the cellulose
+
+
+
+
+ofabout
+of about
+
+
+
+beingthick
+being thick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+systemssay
+systems say
+
+youneed
+you need
+
+
+weused
+we used
+
+
+thebeginning
+the beginning
+
+
+soyou
+so you
+
+
+wherethe
+where the
+
+
+butdidn't 
+but didn't 
+
+
+
+throughthose
+through those
+
+itsfriend
+its friend
+
+areacomes
+area comes
+
+surfacearea
+surface area
+
+
+
+
+anywherefrom
+anywhere from
+
+thesmall
+the small
+
+
+
+
+thetime
+the time
+
+reasonit's 
+reason it's 
+
+foldsof
+folds of
+
+
+
+thereto
+there to
+
+
+
+youknow
+you know
+
+didn'twant
+didn't want
+
+
+
+
+basicallytakes
+basically takes
+
+
+
+thishot
+this hot
+
+
+
+
+whichbreaks
+which breaks
+
+
+mouthstart
+mouth start
+
+amgonna
+am gonna
+
+
+sothat
+so that
+
+
+
+
+reviewstuff
+review stuff
+
+
+
+
+
+
+thatyou
+that you
+
+thecomments
+the comments
+
+you'regetting
+you're getting
+
+
+
+
+allconfused
+all confused
+
+
+
+becauseit
+because it
+
+
+
+
+
+
+you'veever
+you've ever
+
+thecrazy
+the crazy
+
+
+
+systemstarts
+system starts
+
+
+
+havesome
+have some
+
+
+thebrown
+the brown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oxygenthrough
+oxygen through
+
+
+
+episodeof
+episode of
+
+needa
+need a
+
+
+otherhand
+other hand
+
+
+doingmuch
+doing much
+
+
+
+behindhow
+behind how
+
+
+
+becausewe're
+because we're
+
+reallyefficient
+really efficient
+
+
+lowestpressure
+lowest pressure
+
+
+thatendotherms
+that endotherms
+
+
+
+
+theblood
+the blood
+
+
+
+bloodis
+blood is
+
+
+lowerpart
+lower part
+
+
+superiorvena
+superior vena
+
+
+
+
+
+
+
+
+
+takesthat
+takes that
+
+branchesto
+branches to
+
+
+
+offagain
+off again
+
+
+throughthe
+through the
+
+
+yournose
+your nose
+
+yourear
+your ear
+
+serioustrouble
+serious trouble
+
+basicallypower
+basically power
+
+offto
+off to
+
+startsthe
+starts the
+
+
+
+aroundyour
+around your
+
+
+andunload
+and unload
+
+
+itsway
+its way
+
+seemslike
+seems like
+
+
+betweenmost
+between most
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+calledyour
+called your
+
+bodiesbasically
+bodies basically
+
+
+
+fromreptiles
+from reptiles
+
+
+
+
+
+somefish
+some fish
+
+tissueextracts
+tissue extracts
+
+
+
+
+
+
+filamentsof
+filaments of
+
+youprobably
+you probably
+
+takein
+take in
+
+inoxygen
+in oxygen
+
+
+
+
+cellularrespiration
+cellular respiration
+
+thelungs
+the lungs
+
+
+
+
+thismy
+this my
+
+
+
+
+
+ifit
+if it
+
+
+thisbig
+this big
+
+thishuge
+this huge
+
+thissmall
+this small
+
+
+
+muchin
+much in
+
+it'smoved
+it's moved
+
+trackingthe
+tracking the
+
+narrowrange
+narrow range
+
+itmakes
+it makes
+
+
+caseit
+case it
+
+commentsbelow
+comments below
+
+isthat
+is that
+
+
+systemkeeps
+system keeps
+
+flowsinto
+flows into
+
+necessarybecause
+necessary because
+
+arteriolesand
+arterioles and
+
+whichis
+which is
+
+wastalking
+was talking
+
+upso
+up so
+
+fromhigh
+from high
+
+fromlow
+from low
+
+fromlower
+from lower
+
+bodyhappy
+body happy
+
+justpicked
+just picked
+
+includingair
+including air
+
+
+
+
+
+
+
+oxygento
+oxygen to
+
+
+
+skinhas
+skin has
+
+ofoxygen
+of oxygen
+
+complexanimals
+complex animals
+
+
+
+
+
+
+usingsimple
+using simple
+
+
+
+
+
+
+haveeither
+have either
+
+
+
+
+
+youroxygen
+your oxygen
+
+
+
+
+needto
+need to
+
+
+doesn'tdo
+doesn't do
+
+
+
+
+
+
+Animalianeed
+Animalia need
+
+
+whenyou're
+when you're
+
+
+alsotalking
+also talking
+
+thosepeople
+those people
+
+
+nexttime
+next time
+
+
+
+
+
+
+
+
+
+
+dotheir
+do their
+
+playersare
+players are
+
+strengthof
+strength of
+downour
+down our
+
+
+glandsproduce
+glands produce
+
+
+
+
+that'skind
+that's kind
+
+bonetissue
+bone tissue
+
+it'skind
+it's kind
+
+
+
+
+
+yourdifferent
+your different
+
+makesnot
+makes not
+
+littlecells
+little cells
+
+
+
+iscalled
+is called
+
+
+thecompact
+the compact
+
+upabout
+up about
+
+
+othercells
+other cells
+
+
+
+
+
+
+
+
+
+
+tissuestarts
+tissue starts
+
+asany
+as any
+
+
+toglands
+to glands
+
+
+specializedcells
+specialized cells
+
+fromyour
+from your
+
+worktheir
+work their
+
+actslike
+acts like 
+
+
+
+everactually
+ever actually
+
+
+studentsby
+students by
+
+
+thefirst
+the first
+
+
+observethe
+observe the
+
+studioof
+studio of
+
+
+
+
+
+
+
+werelike
+were like
+
+
+what'snow
+what's now
+
+what'sleft
+what's left
+
+
+
+
+
+
+ourskeletons
+our skeletons
+
+
+
+
+lookslike
+looks like
+
+
+prettyfreaking
+pretty freaking
+
+polarbear
+polar bear
+
+thatfall
+that fall
+
+
+haveadapted
+have adapted
+
+
+
+
+skullof
+skull of
+
+mygiant
+my giant
+
+
+comeoff
+come off
+
+
+forswimming
+for swimming
+
+bearskull
+bear skull
+
+bonefound
+bone found
+
+aremade
+are made
+
+eachhave
+each have
+tropomyosinretake
+tropomyosin retake
+
+backand
+back and
+
+
+andstoring
+and storing
+
+hardat
+hard at
+
+
+
+actinare
+actin are
+
+
+
+
+
+ATPmolecule
+ATP molecule
+
+
+
+headis
+head is
+
+totear
+to tear
+
+
+
+tropomyosinout
+tropomyosin out
+
+
+
+continuealong
+continue along
+
+
+Americanbiologist
+American biologist
+
+
+
+fangledtool
+fangled tool
+
+
+
+
+
+
+
+
+
+
+allawesome
+all awesome
+
+
+mostof
+most of
+
+
+bloodthrough
+blood through
+
+
+diffuseout
+diffuse out
+
+
+
+startwith
+start with
+
+
+discoverywhere
+discovery where
+
+
+moreATP
+more ATP
+
+littletiny
+little tiny
+
+
+insideit
+inside it
+
+
+allyreleases
+ally releases
+
+
+breakingthat
+breaking that
+
+causesthe
+causes the
+
+
+
+
+studdedwith
+studded with
+
+thesliding
+the sliding
+
+tensof
+tens of
+
+
+
+specializedversion
+specialized version
+
+
+
+thesarcoplasmic
+the sarcoplasmic
+
+
+
+
+
+
+
+theaction
+the action
+
+
+contracttogether
+contract together
+
+
+
+
+
+
+
+itstretches
+it stretches
+
+connectbones
+connect bones
+
+
+combostretch
+combo stretch
+
+combosstretch
+combos stretch
+
+importantfor
+important for
+
+ligamentsare
+ligaments are
+
+whileI
+while I
+
+morecomplex
+more complex
+
+thisis
+this is
+
+isalso
+is also
+
+whenit
+when it
+
+EndangeredSpecies
+Endangered Species
+
+guysdo
+guys do
+
+mostdisgusting
+most disgusting
+
+freakyou
+freak you
+
+seenthat
+seen that
+
+remainsa
+remains a
+andprogestins
+and progestins
+
+methodof
+method of
+
+GlandsInclude
+Glands Include
+
+yourmetabolism
+your metabolism
+
+thyroidhormone
+thyroid hormone
+
+islike
+is like
+
+androgens
+and rogens
+
+mainone
+main one
+
+tellsthe
+tells the
+
+thesehormones
+these hormones
+
+
+
+
+
+
+
+
+
+
+andprogestins
+and progestins
+
+
+makeshormones
+makes hormones
+
+
+systemand
+system and
+
+
+
+
+
+
+signalingreleases
+signaling releases
+
+
+
+
+quicklyand
+quickly and
+
+
+
+whatstimulate
+what stimulate
+
+
+
+
+coursingthrough
+coursing through
+
+thevoice
+the voice
+
+thebunnies
+the bunnies
+
+onedoes
+one does
+
+potentiallydangerous
+potentially dangerous
+
+beingattacked
+being attacked
+
+sympatheticnervous
+sympathetic nervous
+
+withreceptors
+with receptors
+
+productionand
+production and
+
+directlyunderneath
+directly underneath
+
+twodifferent
+two different
+
+hormonesthrough
+hormones through
+
+somehormone
+some hormone
+
+hormonescirculate
+hormones circulate
+
+thecells
+the cells
+
+endocrineskeep
+endocrines keep
+
+secretedby
+secreted by
+
+thepituitary
+the pituitary
+
+
+peepeeand
+pee pee and
+
+questto
+quest to
+
+controlledby
+controlled by
+
+yourbody
+your body
+
+GlandsInclude
+Glands Include
+
+thekidneys
+the kidneys
+
+rolein
+role in
+
+andhelps
+and helps
+
+whichstimulates
+which stimulates
+
+anextension
+an extension
+
+areactually
+are actually
+
+yoursenses
+your senses
+
+
+totell
+to tell
+
+
+womenwill
+women will
+
+aminehormones
+amine hormones
+
+BasedOn
+Based On
+
+arejust
+are just
+
+hittersare
+hitters are
+
+
+
+
+effectscan
+effects can
+
+
+
+reallyquickly
+really quickly
+
+thenervous
+then ervous
+
+
+regulatethe
+regulate the
+
+thereare
+there are
+
+thatmakes
+that makes
+
+partlyresponsible
+partly responsible
+
+havingabout
+having about
+
+vesselscoming
+vessels coming
+
+
+onepart
+one part
+
+
+
+bloodstream
+blood stream
+
+
+
+
+
+
+
+
+
+
+
+
+levelsdrop
+levels drop
+
+Iunderstand
+I understand
+
+don'tunderstand
+don't understand
+
+everytype
+every type
+
+secretesinsulin
+secretes insulin
+
+concentrationof
+concentration of
+
+othermuscle
+other muscle
+
+acouple
+a couple
+
+yourbloodstream
+your bloodstream
+
+weneed
+we need
+
+membranesare
+membranes are
+
+can'tpass
+can't pass
+
+hypothalamusto
+hypothalamus to
+
+ofbaby
+of baby
+
+totallyobsessed
+totally obsessed
+
+maketeenagers
+make teenagers
+
+spurtsand
+spurts and
+
+endocrinesystem
+endocrine system
+
+groundexperience
+ground experience
+
+
+organismsproduce
+organisms produce
+
+
+
+
+
+
+
+
+
+
+glandsand
+glands and
+
+
+thatare
+that are
+
+
+
+
+
+
+
+
+
+
+
+organsthat
+organs that
+
+
+theGreek
+the Greek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+allover
+all over
+
+
+
+tostart
+to start
+
+getinto
+get into
+
+yourimmune
+your immune
+
+
+
+
+
+
+
+theadjacent
+the adjacent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chemicalmessages
+chemical messages
+
+
+
+
+
+
+
+
+tobe
+to be
+
+
+
+
+kindof
+kind of
+
+ahormone
+a hormone
+
+workon
+work on
+
+actuallyget
+actually get
+
+
+
+
+helpedput
+helped put
+
+
+
+actuallywasn't 
+actually wasn't 
+
+
+
+Idon't
+I don't
+
+questionsfor
+questions for
+
+
+
+
+thereif
+there if
+
+
+
+peepand
+peep and
+
+
+
+thatthe
+that the
+
+
+
+
+
+
+thesurgery
+the surgery
+
+
+
+
+
+
+thehormones
+the hormones
+
+embryosfrom
+embryos from
+
+instructedthe
+instructed the
+
+
+
+
+
+
+
+
+
+liningand
+lining and
+
+
+
+we'reeither
+we're either
+
+
+stupidstunts
+stupid stunts
+
+
+
+
+pushupcontest
+push up contest
+
+
+timesthat
+times that
+
+
+convertthe
+convert the
+
+gotyour
+got your
+
+
+yourbiological
+your biological
+
+gotyour
+got your
+
+
+thatthe
+that the
+
+
+atwork
+at work
+
+yourdigestive
+your digestive
+
+
+bunchof
+bunch of
+
+firstwith
+first with
+
+
+
+
+
+
+willrelease
+will release
+
+cellsconvert
+cells convert
+
+cellsin
+cells in
+
+
+
+
+
+torequire
+to require
+
+
+
+ofcourse
+of course
+
+
+andget
+and get
+
+arecontrolled
+are controlled
+
+
+justthe
+just the
+
+
+
+
+allover
+all over
+
+
+
+yourthroat
+your throat
+
+
+
+
+howthey
+how they
+
+whenthey
+when they
+
+helpof
+help of
+
+thedevelopment
+the development
+
+toexploit
+to exploit
+
+theway
+the way
+
+youcan
+you can
+
+isto
+is to
+
+isready
+is ready
+
+
+
+usedit
+used it
+
+
+knownas
+known as
+
+
+canjust
+can just
+
+
+snakegrass
+snake grass 
+
+
+Althoughon
+Although on
+
+
+
+anorganism
+an organism
+
+
+togrow
+to grow
+
+
+
+
+gottahand
+gotta hand
+
+seehow
+see how
+
+prettymuch
+pretty much
+
+thatour
+that our
+
+theplant
+the plant
+
+wecontinue
+we continue
+
+makingall
+making all
+
+anincreasingly
+an increasingly
+
+forproviding
+for providing
+
+arealso
+are also
+
+welcometo
+welcome to
+
+epidermisof
+epidermis of
+
+
+oftime
+of time
+
+
+gottahand
+gotta hand
+
+dependingon
+depending on
+
+
+flexibleand
+flexible and
+
+
+
+allabout
+all about
+
+betalking
+be talking
+
+itsname
+its name
+
+withwater
+with water
+
+isloaded
+is loaded
+
+fromthe
+from the
+
+mostimportant
+most important
+
+responsiblefor
+responsible for
+
+withtheir
+with their
+
+don'twant
+don't want
+
+plantsthat
+plants that
+
+thisdidn't
+this didn't
+
+
+
+ofdifferent
+of different
+
+
+
+continuetheir
+continue their
+
+
+
+thatthese
+that these
+
+
+
+
+
+anyquestions
+any questions
+
+
+
+ofcontents
+of contents
+
+peoplewho
+people who
+
+
+thisepisode
+this episode
+
+
+
+thismore
+this more
+
+inall
+in all
+
+
+becomethe
+become the
+
+arethe
+are the
+
+
+
+gametethat
+gamete that
+
+
+insidethe
+inside the
+
+
+thetwo
+the two
+
+
+
+produceanother
+produce another
+
+
+they'rethe
+they're the
+
+
+
+thesoil
+the soil
+
+
+
+fromcell
+from cell
+
+youlook
+you look
+
+itcomes
+it comes
+
+lotlike
+lot like
+
+notknow
+not know
+
+don'thave
+don't have
+
+fundamentallydifferent
+fundamentally different
+
+landplants
+land plants
+
+isto
+is to
+
+
+diffusionto
+diffusion to
+
+
+havecell
+have cell
+
+
+who knows
+whoknows
+
+fromcell
+from cell
+
+
+formsover
+forms over
+
+
+andwhich
+and which
+
+
+knowabout
+know about
+
+
+reallyknows
+really knows
+
+
+riseto
+rise to
+
+
+materialfrom
+material from
+
+dividesand
+divides and
+
+andeverything
+and everything
+
+
+
+
+
+
+
+prettymuch
+pretty much
+
+wherenow
+where now
+
+
+fromthe
+from the
+
+
+wouldn'tget
+wouldn't get
+
+
+
+sexuallife
+sexual life
+
+
+photosynthesisto
+photosynthesis to
+
+wonderfullycomplex
+wonderfully complex
+
+
+backin
+back in
+
+
+
+
+consistentdifference
+consistent difference
+
+
+hangingout
+hanging out
+
+
+evergoing
+ever going
+
+
+themind
+the mind
+
+togetherto
+together to
+
+
+animalhas
+animal has
+
+
+organismhappens
+organism happens
+
+whohelped
+who helped
+
+
+allthe
+all the
+
+
+havethe
+have the
+
+Igoing
+I going
+
+
+thingsthat
+things that
+
+reproductivesystems
+reproductive systems
+
+
+tothe
+to the
+
+
+millionsof
+millions of
+
+
+forwatching
+for watching
+
+
+stuffthat
+stuff that
+
+
+
+andthrough
+and through
+
+
+thedelivery
+the delivery
+
+rightabout
+right about
+
+aroundthe
+around the
+
+bedand
+bed and
+
+somebodyto
+somebody to
+
+thatone
+that one
+
+somebodyelse
+somebody else
+
+
+ofyourself
+of yourself
+
+
+thenfigure
+then figure
+
+
+
+
+specializedreproductive
+specialized reproductive
+
+
+theymature
+they mature
+
+
+theright
+the right
+
+
+
+allkinds
+all kinds
+
+
+
+atall
+at all
+
+
+ableto
+able to
+
+
+ofthose
+of those
+
+
+importantand
+important and
+
+
+untilthey
+until they
+
+
+orlower
+or lower
+
+
+muscularcontractions
+muscular contractions
+
+
+yoursex
+your sex
+
+
+contractionscarry
+contractions carry
+
+
+
+thisvideo
+this video
+
+
+
+
+
+thiswonderful
+this wonderful
+
+
+insideof
+inside of
+
+
+arekept
+are kept
+
+
+ofthe
+of the
+
+
+
+humansand
+humans and
+
+
+betotally
+be totally
+
+
+
+
+
+timethinking
+time thinking
+
+
+systemsthat
+systems that
+
+systemhas
+system has
+
+convertthose
+convert those
+
+
+muchevery
+much every
+
+
+workand
+work and
+
+
+signalsto
+signals to
+
+
+
+
+it'selectrical
+it's electrical
+
+
+traveldown
+travel down
+
+
+
+startsto
+starts to
+
+
+sendsmessages
+sends messages
+
+
+downto
+down to
+
+
+
+
+againto
+again to
+
+
+
+whatwe
+what we
+
+
+everyonewho
+everyone who
+
+
+
+reachesthe
+reaches the
+
+
+simplerand
+simpler and
+
+
+toaccept
+to accept
+
+
+
+transmitselectrochemical
+transmits electrochemical
+
+andparasympathetic
+and parasympathetic
+
+
+whenwe
+when we
+
+
+informationinto
+information into
+
+
+
+systemmakes
+system makes
+
+systemsare
+systems are
+
+
+
+ourbodies
+our bodies
+
+
+cellsthat
+cells that
+
+
+foranalyzing
+for analyzing
+
+
+biteinto
+bite into
+
+
+
+ofyour
+of your
+
+
+
+thingsdo
+things do
+
+
+
+
+actuallymakes
+actually makes
+
+
+thefreakin
+the freakin
+
+
+andto
+and to
+
+thatit's
+that it's
+
+
+
+efferentneurons
+efferent neurons
+
+thenext
+the next
+
+whichare
+which are
+
+
+directlyback
+directly back
+
+
+changingvoltage
+changing voltage
+
+
+
+
+pumpthe
+pump the
+
+
+
+ofaction
+of action
+
+
+
+saltatoryconduction
+saltatory conduction
+
+
+
+isthe
+is the
+
+
+
+outresponse
+out response
+
+you'vegot
+you've got
+
+
+
+goingto
+going to
+
+
+haveto
+have to
+
+
+
+watchingthis
+watching this
+
+
+
+
+wehave
+we have
+
+
+runningall
+running all
+
+
+
+whichtriggers
+which triggers
+
+
+tinylittle
+tiny little
+
+
+thoselittle
+those little
+
+haveneurons
+have neurons
+
+
+
+tastereceptor
+taste receptor
+
+beautifulpizza
+beautiful pizza
+
+pathwaysto
+pathways to
+
+
+thedendrites
+the dendrites
+
+
+involvesconstricting
+involves constricting
+
+
+anexcuse
+an excuse
+
+
+alsogoing
+also going
+
+
+
+mentionwhat's
+mention what's
+
+autonomicnervous
+autonomic nervous
+
+therewill
+there will
+
+
+
+
+
+isactually
+is actually
+
+
+
+neuronshate
+neurons hate
+
+positiveand
+positive and
+
+
+closeand
+close and
+
+
+
+
+theelectrical
+the electrical
+
+
+theNodes
+the Nodes
+
+
+typicalneuron
+typical neuron
+
+
+
+youhave
+you have
+
+
+
+
+theirvery
+their very
+
+
+systemsso
+systems so
+
+availablefor
+available for
+
+
+
+wehave
+we have
+
+
+
+
+activatedby
+activated by
+
+
+andglorious
+and glorious
+
+horriblyconfusing
+horribly confusing
+
+thatit's
+that it's
+
+
+
+yourperipheral
+your peripheral
+
+
+
+arecalled
+are called
+
+outsideof
+outside of
+
+
+controlsall
+controls all
+
+informationcoming
+information coming
+
+
+
+neuronsbecause
+neurons because
+
+
+thebrain
+the brain
+
+
+bodyinto
+body into
+
+
+
+vertebrateshave
+vertebrates have
+
+
+requiresyour
+requires your
+
+
+
+pathogenbefore
+pathogen before
+
+
+
+
+
+
+
+
+
+biologyis
+biology is
+
+
+notdie
+not die
+
+
+theselittle
+these little
+
+
+workthey
+work they
+
+majorityof
+majority of
+
+
+helpfulviruses
+helpful viruses
+
+
+
+smallerropes
+smaller ropes
+
+
+
+Ifeel
+I feel
+
+
+
+
+
+
+
+innateimmune
+innate immune
+
+
+
+aboutwhether
+about whether
+
+
+keepthe
+keep the
+
+
+manyexcellent
+many excellent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yourinnate
+your innate
+
+
+purposeis
+purpose is
+
+
+theoutside
+the outside
+
+
+
+
+
+acrap
+a crap
+
+whatcauses
+what causes
+
+
+thewhole
+the whole
+
+
+unsurprisinglyproduce
+unsurprisingly produce
+
+oftenassociated
+often associated
+
+youget
+you get
+
+goall
+go all
+
+
+
+ourimmune
+our immune
+
+takeantihistamines
+take antihistamines
+
+
+
+systemactivity
+system activity
+
+
+
+asignal
+a signal
+
+
+cellsand
+cells and
+
+forour
+for our
+
+thesuper
+the super
+
+killsan
+kills an
+
+
+justroll
+just roll
+
+doneby
+done by
+
+
+thatgoes
+that goes
+
+scriptwith
+script with
+
+systemto
+system to
+
+anyRobert
+any Robert
+
+
+
+cellsgive
+cells give
+
+
+
+
+
+
+
+fromantibody
+from antibody
+
+thatcauses
+that causes
+
+tonearby
+to nearby
+
+systemalso
+system also
+
+maturein
+mature in
+
+
+
+
+
+
+
+
+movingmy
+moving my
+
+
+
+thingsin
+things in
+
+understandthe
+understand the
+
+manylayers
+many layers
+
+
+yourskeletal
+your skeletal
+
+
+
+
+saddeststory
+saddest story
+
+acell
+a cell
+
+inantibodies
+in antibodies
+
+directthe
+direct the
+
+standfor
+stand for
+
+
+theshots
+the shots
+
+killpathogens
+kill pathogens
+
+toeach
+to each
+
+overhere
+over here
+
+thembecome
+them become
+
+
+keepa
+keep a
+skinand
+skin and
+
+
+andnow
+and now
+
+
+isdifferent
+is different
+
+foodthrough
+food through
+
+musclesthat
+muscles that
+
+outto
+out to
+
+virusthat
+virus that
+
+samereceptor
+same receptor
+
+
+coveredin
+covered in
+
+
+
+willhave
+will have
+
+
+futureimmunity
+future immunity
+
+
+commentsor
+comments or
+
+
+
+
+
+
+
+
+andthese
+and these
+
+yourrun
+your run
+
+smallerstrands
+smaller strands
+
+
+muscleapart
+muscle apart
+
+
+sternumor
+sternum or
+
+
+
+cellsperform
+cells perform
+
+
+
+
+
+
+
+
+
+cellsuse
+cells use
+
+
+weightsduring
+weights during
+
+
+timeI
+time I
+
+
+
+abouthow
+about how
+
+energyfrom
+energy from
+
+lotof
+lot of
+
+aboutyour
+about your
+
+
+
+
+
+
+
+
+
+relaxingoccurs
+relaxing occurs
+
+seethose
+see those
+
+
+formuscle
+for muscle
+
+probablyin
+probably in
+
+
+musclecell
+muscle cell
+
+
+
+
+
+justbundles
+just bundles
+
+
+
+essentialfor
+essential for
+
+
+
+
+nothingcompared
+nothing compared
+
+
+
+
+howmuscles
+how muscles
+
+
+ofactin
+of actin
+
+
+
+someheavy
+some heavy
+
+
+slidingfilament
+sliding filament
+
+
+
+
+
+
+
+betweentwo
+between two
+
+
+
+
+clubshaped
+club shaped
+
+
+
+severalstrands
+several strands
+
+
+
+researchersindependently
+researchers independently
+
+
+allwe
+all we
+
+peoplethought
+people thought
+
+
+
+
+
+
+
+
+
+
+
+
+theenergy
+the energy
+
+shapeto
+shape to
+
+canaccept
+can accept
+
+werearranged
+were arranged
+
+
+observedthat
+observed that
+
+recoilsafter
+recoils after
+
+
+thosethick
+those thick
+
+thatbroken
+that broken
+
+constantlyburning
+constantly burning
+
+
+ofcalcium
+of calcium
+
+
+
+youcreate
+you create
+
+
+
+
+
+howcells
+how cells
+
+
+twoproteins
+two proteins
+
+timebecome
+time become
+
+
+thatkeep
+that keep
+calledtropomyosin
+called tropomyosin
+
+wideand
+wide and
+
+
+thatconcentration
+that concentration
+
+themyosin
+the myosin
+
+chaperonesdistracted
+chaperones distracted
+
+italone
+it alone
+
+tomake
+to make
+
+
+
+
+
+theneuron
+the neuron
+
+
+offanother
+off another
+
+
+troponinto
+troponin to
+
+
+
+
+
+
+respondby
+respond by
+
+efferentare
+efferent are
+
+centerof
+center of
+
+nervepathways
+nerve pathways
+
+bureaucracyjust
+bureaucracy just
+
+
+carryinformation
+carry information
+
+thatstarts
+that starts
+
+brainand
+brain and
+
+commonis
+common is
+
+havetwo
+have two
+
+
+starfishand
+starfish and
+
+differentplace
+different place
+
+calledthe
+called the
+
+
+
+
+
+fourKingdoms
+four Kingdoms
+
+
+becausethey
+because they
+
+asbig
+as big
+
+particularlynasty
+particularly nasty
+
+thatmade
+that made
+
+
+ecologistsof
+ecologists of
+
+
+observingmany
+observing many
+
+speciesof
+species of
+
+
+
+thevarious
+the various
+
+eachof
+each of
+
+foraginghabits
+foraging habits
+
+illustratedhow
+illustrated how
+
+whatnatural
+what natural
+
+thepartitioning
+the partitioning
+
+
+
+finchesor
+finches or
+
+
+ofinterspecific
+of interspecific
+
+
+forcesin
+for cesin
+
+altogetherby
+altogether by
+
+helpspread
+help spread
+
+beinvestigating
+be investigating
+
+
+attractpollinators
+attract pollinators
+
+
+relationshipsbecome
+relationships become
+
+
+commensalbecause
+commensal because
+
+thebarnacles
+the barnacles
+
+ofplankton
+of plankton
+
+allof
+all of
+
+
+ofearth
+of earth
+
+showedthat
+showed that
+
+
+slightlyfaster
+slightly faster
+
+drivento
+driven to
+
+competitorswill
+competitors will
+
+ifwe
+if we
+
+ifour
+if our
+
+ifthey
+if they
+
+ifhe
+if he
+
+ifshe
+if she
+
+ifit
+if it
+
+jobwe
+job we
+
+couldfigure
+could figure
+
+andit
+and it

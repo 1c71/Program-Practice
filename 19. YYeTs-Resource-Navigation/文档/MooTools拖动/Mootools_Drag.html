@@ -1,0 +1,56 @@
+<html>
+<head>
+    <title></title>
+
+<style type="text/css">
+
+#container{
+    background: #DDD;
+    height: 260px;
+    position: relative;
+}
+ 
+#drag {
+    background: #78BA91;
+    cursor: move;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 40px;
+}
+ 
+</style>
+
+
+
+
+<script type="text/javascript" src="mootools-core-1.4.5-full-compat-yc.js"></script>
+<script type="text/javascript" src="mootools-more-1.4.0.1.js"></script>
+
+
+<script type="text/javascript">
+
+window.addEvent('domready', function(){
+
+    new Drag.Move($('drag'), {
+        container: $('container')
+    });
+
+});
+
+
+</script>
+</head>
+
+<body>
+
+
+    <div id="container">
+        <div id="drag"></div>
+    </div>
+
+
+
+</body>
+</html>

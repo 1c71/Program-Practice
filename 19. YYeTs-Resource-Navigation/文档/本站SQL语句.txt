@@ -1,0 +1,328 @@
+
+
+
+
+
+在写网站的时候记录下来的.. 以后可能会有用.
+
+
+
+
+	[数据库]
+
+create database  yyets_resource default charset utf8;
+
+show databases;
+
+use yyets_resource ;
+
+show tables;
+
+
+
+
+
+
+	[表]
+
+
+
+=================热门资源======================
+
+create table hot_resource(
+    id int   primary key auto_increment,
+    type   varchar(20),         # 类型
+    sort    smallint,             #名称
+    name  varchar(100),        # 排序
+    link     varchar(200)      # 链接地址
+)default charset=utf8;
+
+
+约定的type:
+电影      movie    
+美剧      am_tv    (含义是american tv show)
+日韩剧   jk_tv    (jk 指的是 japan koren)
+动漫      ct        (Cartoon--卡通)    #  = = 取错名了. 不过不碍事...
+国产剧   china    
+游戏      game
+
+
+
+insert into hot_resource (type,sort,name,link) values('movie',4,"变形金刚",'http://baike.baidu.com/view/28733.htm');
+
+insert into hot_resource (type,sort,name,link) 
+values('movie',4,"西游·降魔篇",'http://baike.baidu.com/view/9632495.htm');
+
+insert into hot_resource (type,sort,name,link) 
+values('movie',4,"疯狂的石头",'http://baike.baidu.com/view/307172.htm');
+
+insert into hot_resource (type,sort,name,link) values('movie',4,"魔戒",'http://dl.xunlei.com/xl7.html');
+
+insert into hot_resource (type,sort,name,link) values('movie',4,"霍比特人",'http://dl.xunlei.com/xl7.html');
+
+insert into hot_resource (type,sort,name,link) 
+values('movie',4,"钢铁侠3",'http://baike.baidu.com/view/3256327.htm');
+
+
+
+insert into hot_resource (type,sort,name,link) 
+values('am_tv',3,"猫鼠游戏",'http://www.baidu.com');
+
+insert into hot_resource (type,sort,name,link) 
+values('am_tv',40,"生活大爆炸",' http://www.baidu.com ');
+
+
+insert into hot_resource (type,sort,name,link) 
+values('jk_tv',3,"城市猎人",'http://www.baidu.com');
+
+insert into hot_resource (type,sort,name,link) 
+values('jk_tv',40,"膝盖道士",' http://www.baidu.com ');
+
+
+insert into hot_resource (type,sort,name,link) 
+values('ct',3,"喜洋洋与灰太狼",'http://www.baidu.com');
+
+insert into hot_resource (type,sort,name,link) 
+values('ct',1,"海绵宝宝",' http://www.baidu.com ');
+
+insert into hot_resource (type,sort,name,link) 
+values('ct',1,"飞出个未来",' http://www.baidu.com ');
+
+
+insert into hot_resource (type,sort,name,link) 
+values('china',13,"阳光的快乐生活",'http://www.baidu.com');
+
+insert into hot_resource (type,sort,name,link) 
+values(' china ',60,"垃圾电视剧",' http://www.baidu.com ');
+
+
+insert into hot_resource (type,sort,name,link) 
+values('game',4,"无主之地2",'http://www.baidu.com');
+
+insert into hot_resource (type,sort,name,link) 
+values(' game ',7,"愤怒的小鸟",' http://www.baidu.com ');
+
+
+
+
+
+select * from  hot_resource where type="movie" order by sort;
+select * from  hot_resource where type="am_tv" order by sort;
+select * from  hot_resource where type="jk_tv" order by sort;
+select * from  hot_resource where type="ct"   order by sort;
+select * from  hot_resource where type="china" order by sort;
+select * from  hot_resource where type="game"  order by sort;
+
+
+
+update  hot_resource set  sort=sort,name=name,link=link where id=xx;
+
+
+
+delete from hot_resource where id='$id';
+
+
+
+
+==============================好站推荐===================================
+
+
+create table  good_website (
+    # 排序, 网站名称(8个字以内),  网站简介(10个字以内), 链接地址
+    id int primary key auto_increment,
+    type varchar(20),
+    sort smallint default 0,    #排序
+    name varchar(30),    # 网站名称
+    intro varchar(30),     # 简介
+    link    varchar(200)    #链接地址
+)default charset=utf8;
+
+
+type:
+资源下载站    download
+点播站    	online
+视频站    	video
+PT站    	pt
+其他相关站    other
+美图美女站    girl
+
+
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('download',1,"人人影视","海外影视翻译下载站",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('download',1,"EZTV","美剧片源下载站",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('download',1,"天天美剧","片源下载站",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('online',1,"宇宙点播网","影视点播站",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('online',9,"一一影视网","影视点播站",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('video',1,"优酷","中国最大视频站",'http://www.youku.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('video',1,"土豆"," 中国第二大视频站 ",'http://www.tudou.com/');
+
+insert into   good_website  (type,name,  intro  ,link) 
+values('pt',1,"CHDbits","国内著名高清PT站",'http://chdbits.org/login.php');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('pt',1,"TTG","国内PT站",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('other',1,"射手网","最大的影视字幕下载站",'http://www.shooter.cn/');
+
+insert into   good_website  (type,sort,name,desc,link) 
+values('other',1,"时光网","最新上映电影资讯网",'http://www.mtime.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('girl',2,"色戒","美女图片网",'http://www.yyets.com/');
+
+insert into   good_website  (type,sort,name,  intro  ,link) 
+values('girl',1,"18P2P","最大的美女网站",'http://www.yyets.com/');
+
+
+
+select * from good_website where type="download" order by sort;
+select * from good_website where type="online" order by sort;
+select * from good_website where type="video" order by sort;
+select * from good_website where type="pt" order by sort;
+select * from good_website where type="other" order by sort;
+select * from good_website where type="girl" order by sort;
+
+
+
+delete from good_website where type='xx' and id='xx';
+
+
+update good_website set sort=$sort, name='xx', intro='xx', link='xx' where type='xx' and id=xx;
+
+
+
+
+
+
+
+
+
+===========================知识讲解=========================
+
+create table  knowledge_share (
+    id int primary key auto_increment,    # 主键
+    sort smallint,    # 排序
+    title varchar(75),    # 标题, UTF-8一般是3个字节. 所以可以存25个字
+    link varchar(200)    # 链接
+)default charset=utf8;
+
+
+
+insert into   knowledge_share  (sort,title ,link) values(3,"各种视频格式与版本讲解",'www.zhihu.com');
+insert into   knowledge_share  (sort,title ,link) values(1,"如何外挂字幕",'www.zhihu.com');
+insert into   knowledge_share  (sort,title ,link) values(3,"美剧，电影的资源播出和发布时间详解",'www.zhihu.com');
+insert into   knowledge_share  (sort,title ,link) values(10,"如何压制字幕？",'www.zhihu.com');
+insert into   knowledge_share  (sort,title ,link) values(2,"视频如何转格式？",'www.zhihu.com');
+
+
+
+select * from knowledge_share order by sort;
+
+
+update knowledge_share set sort=9, title="啊", link="不" where id = 1;
+
+
+delete from  knowledge_share  where id = xx;
+
+
+
+
+
+
+
+
+
+
+
+
+===============================实用工具=======================================================
+
+
+create table  useful_tool (
+    id int primary key auto_increment, 
+    sort smallint,    # 排序
+    name varchar(60) not null,    #名称, 最多20个字, 不许为空
+    intro varchar(90),    # 简介,最多30个字
+    imglink varchar(200),    #图片地址
+    link varchar(200) not null    # 链接地址, 不许为空
+)default charset=utf8;
+
+
+
+
+insert into  useful_tool   (sort,name,  intro ,link) values(3,"迅雷","好用的下载工具",'http://dl.xunlei.com/xl7.html');
+
+
+insert into  useful_tool
+(sort,name,  intro ,link) values(3,"百度影音","高质量在线点播的播放器",'http://player.baidu.com/');
+
+
+insert into  useful_tool
+(sort,name,  intro ,link) values(3,"小红伞","德国的免费杀毒软件",'http://www.avira.com/zh-tw/for-home');
+
+insert into  useful_tool
+(sort,name,  intro ,link) values(3,"火狐","强大安全的浏览器",'http://firefox.com.cn/');
+
+
+insert into  useful_tool
+(sort,name,  intro ,link) values(3,"快车","老牌下载软件",'http://www.flashget.com/cn/');
+
+
+insert into  useful_tool
+(sort,name,  intro ,link) values(3,"旋风","腾讯旗下的下载软件，很强大",'http://xf.qq.com/');
+
+
+
+
+
+
+
+delete from  useful_tool  where id = $id
+
+
+
+select * from useful_tool order by sort;
+
+
+
+update useful_tool set sort='$sort', name='$name', intro='$intro', imglink='$imglink', link='$link' where id = $id;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

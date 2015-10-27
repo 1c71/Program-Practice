@@ -1,0 +1,90 @@
+/* 
+    这里面存的是一些通用的css 
+    比如那个浅蓝色的"添加新条目"的表单
+*/
+
+
+
+body{
+    margin-top: 10px;
+}
+
+
+
+/* 公用表格类 */
+.resource_table thead{
+    text-align: center;
+}
+
+.resource_table tr td{
+    padding-left: 10px;
+    /* td 用不了margin */
+}
+
+
+
+
+
+/* ==== 添加新条目的那个蓝色表单框 ==== */
+.new_box{
+    background-color: #bff1f4;  /*背景颜色*/
+    border: 2px #08799a solid;  /*边框*/
+    display: inline-block;  /* ... */
+    padding: 13px 20px;
+}
+
+.new_box:hover{
+    /*cursor: move;*/
+}
+
+
+.new_box input{
+    border-radius: 0;
+    height: 15px;
+
+    position: relative;
+    bottom: -2px;
+    /* 因为输入框和左边文字的底线有些不对齐. 所以这里改一下 */
+}
+
+
+
+.new_box label{
+    display:inline-block;
+}
+
+
+.new_box input:focus{
+    box-shadow: 0 0 0 0 white;
+    /* 引入bootstrap 后, 所有的input都默认在选中的时候有边框蓝色高亮. 我们这里去掉它 */
+}
+
+
+
+.new_box botton{
+    margin-top:100px;
+}
+
+
+/* “确定”按钮 */
+#yes{
+    background-color:#096dd3; 
+    border:0; 
+    color:white; 
+    font-weight:bold;  
+    height:25px;
+    margin-top: 8px;
+}
+
+/* “取消”按钮 */
+#no{
+    background-color:#096dd3; 
+    border:0; 
+    color:white; 
+    font-weight:bold;  
+    height:25px;
+    margin-top: 8px;
+}
+
+
+/* ==== 蓝色表单框  结束 ==== 
