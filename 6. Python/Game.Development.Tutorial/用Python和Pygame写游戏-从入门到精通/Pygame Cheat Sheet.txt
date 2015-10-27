@@ -1,0 +1,65 @@
+﻿http://inventwithpython.com/pygamecheatsheet.png
+
+一副图片，讲解了范例代码的几乎每一行含义
+
+
+from pygame.locals import *
+pygame.locals有些常用的函数，比如QUIT,MOUSEMOTION 和 K_ESCAPE
+
+pygame.init()
+# 需要在导入pygame模块后调用，并且要在使用其他任何Pygame函数之前调用
+
+
+fpsClock = pygame.time.Clock()
+# 这个Clock对象可以让我们的程序运行(最多)在一定的FPS
+
+
+windowSurfaceObj = pygame.display.set_mode((640,480))
+# set_mode创建一个窗口.这个Surface对象在pygame.display.update()被调用后才会绘制到屏幕上
+
+
+catSurfaceObj = pygame.image.load("cat.png")
+# load()将图像绘制在Surface对象上并返回
+
+redColor = pygame.Color(255,0,0)	
+# RGB颜色
+
+fontObj = pygame.font.Font("xxx.ttf",32)
+# 创建字体对象,并且设置字体大小为32
+
+
+soundObj = pygame.mixer.Sound("bounce.wav")
+# 创建声音对象(从文件)
+
+msg = "hello world"
+
+while True:	# 主循环
+
+	windowSurfaceObj.blit(catSurfaceObj,(0,0))
+	# blit()方法把一个Surface绘制到另一个Surface上,第二个参数是left,top位置
+
+
+	msgSurfaceObj = fontObj.render(msg,False,redColor)
+	# reder()创建了Surface对象,指定的字体,大小,和颜色的文本已经绘制好在上面了
+	# 你可以blit这个Surface到其他Surface上
+	
+
+	soundObj.play()
+	# 播放声音对象的声音.
+
+
+	# pygame.event.get()会返回列表形式的所有事件对象
+	for event in pygame.event.get():
+	    if event.type == QUIT:
+		pygame.quit()		# 和pygame.init()是相反的.
+		sys.exit()
+	    elif event.type == MOUSEMOTION:	# 这个事件对象有类型，坐标，按键和其他属性
+		mousex, mousey = event.pos
+		
+
+
+	pygame.display.update()
+	#   窗口不会真正画到屏幕上，直到调用这个函数才会画到屏幕上
+	fpsClock.tick(30)
+	#   等待到足够久的时间，以30帧每秒绘制(在调用pygame.display.update()后)
+

@@ -1,0 +1,47 @@
+
+
+不管你是主动还是被动获得，Tkinter 中的GUI 总是有一个root 窗口，
+主窗口就是程序开始运行的时候创建的，在主窗口中你通常放置主要的部件。
+
+另外，Tkinter 脚本可以依据需要创建很多独立的窗口，主要的方法就是通过创建Toplevel对象。
+每一个Toplevel对象都创建一个显示的窗口，无须通过mainloop 方法调用。
+
+
+
+
+
+
+
+在图形设计过程，经常会涉及一些布局的美化和合理放置，从而使效果更加友好。
+为了解决这个问题，在Tkinter 中引入了这样一个概念。
+Tk 提供了几个Geometry Manager，主要是为了帮助开发者完成在布局中的widget 的放置。
+
+一般Tk有三种几何管理器：Pack、Grid、Place，这里只着重介绍一下Pack 管理器。
+Pack 管理器的使用方法很简单，在w.pack(options)中，w 是一个widget。常用的options
+如下所示。
+	side 表示把w 放在那个边上，可以是TOP，BOTTOM，LEFT，RIGHT。
+	padx 和pady 表示parcel 的每一个边和w 之间预留的空间。
+	ipadx 和ipady 表示w 的每一个边和w 内包含的内容之间的预留的空间，w 会因此变大。
+	fill 可以是None、x、y、both。如果parcel 太大了，那就会根据fill 的值来增加子窗口的大小：
+		None 表示维持子窗口原来的大小；
+		X 表示只扩大子窗口的宽度；
+		Y 表示只扩大子窗口的高度；
+		BOTH 表示同时扩大子窗口的宽度和高度。
+		值得注意的是，fill 是指子窗口的大小和parcel 大小的关系。
+		决定子窗口怎样改变自己的大小，来适应parcel 的大小。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

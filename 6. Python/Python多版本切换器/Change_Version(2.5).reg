@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Python.File\shell\Edit with IDLE\command]
+@="\"C:\\Python25\\pythonw.exe\" \"C:\\Python25\\Lib\\idlelib\\idle.pyw\" -e \"%1\""
+
+[HKEY_CLASSES_ROOT\Python.File\shell\open\command]
+@="\"C:\\Python25\\python.exe\" \"%1\" %*"
+
+
+
+

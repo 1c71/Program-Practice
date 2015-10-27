@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CLASSES_ROOT\Python.File\shell\Edit with IDLE\command]
+@="\"C:\\Python32\\pythonw.exe\" \"C:\\Python32\\Lib\\idlelib\\idle.pyw\" -e \"%1\""
+
+:修改后, 右键-Edit with IDLE 时就会去找这个版本
+
+
+[HKEY_CLASSES_ROOT\Python.File\shell\open\command]
+@="\"C:\\Python32\\python.exe\" \"%1\" %*"
+
+:修改后, 双击打开.py文件和命令行运行.py文件时就会去找这个版本
+
+
+
+

@@ -1,0 +1,104 @@
+
+
+<img src="images/1.jpg" id="slideshow">
+<!-- 图片(src属性里的是第一张图片, 默认图片)-->
+
+<br>
+<button onclick="javascript:Previous()">前一张图片</button>
+<button onclick="javascript:Switch()">自动播放/暂停</button>
+<button onclick="javascript:Next()">下一张图片</button>
+<!-- 3个按钮 -->
+
+
+
+<script>
+
+    var auto = true;
+    // 代表自动播放/暂停的 bool 值
+    // true代表自动播放
+
+    var delay = 1000;
+    // 切换图片的时间(毫秒)
+
+    var sequence_number = 0;
+    // 用于[图片路径数组]的下标数字. ( 如果有3张图片, 那么允许的下标数字是0,1,2 )
+
+
+    var Img_Path_Array = new Array (
+        "images/1.jpg",
+        "images/2.jpg",
+        "images/3.jpg"
+    );
+    // [图片路径数组]
+
+    
+
+
+
+    // 下面这个函数会根据参数处理 sequence_number, 
+    // 会处理 1 或 -1 参数, 其他的无视.
+    function get_sequence_number(direction){
+       
+        if (direction == 1){
+            sequence_number += 1;
+            if (sequence_number >= Img_Path_Array.length){
+                sequence_number = 0;
+            }
+        }
+        else if (direction == -1){
+            sequence_number -= 1;
+            if (sequence_number < 0){
+                sequence_number = Img_Path_Array.length - 1;
+            }
+        }
+
+        return sequence_number;
+    }
+
+
+    // 前一张图片
+    function Previous(){
+        var img_tag = document.getElementById('slideshow');
+        index = get_sequence_number(1);
+        img_tag.src = Img_Path_Array[index];
+    }
+
+    // 下一张图片
+    function Next(){
+        var img_tag = document.getElementById('slideshow');
+        index = get_sequence_number(-1);
+        img_tag.src = Img_Path_Array[index];
+    }
+
+
+    // 自动播放/停止的处理函数
+    function Switch(){
+        if (auto == true){ 
+            auto = false;
+            window.clearInterval(IntervalID);
+        }
+        else if(auto == false){
+            auto = true;
+            window.IntervalID = window.setInterval(Auto, delay);
+        }
+    }
+
+
+    // 自动播放时, 定时执行的函数.
+    function Auto(){
+        if (auto == true){
+            Next();
+        }
+    }
+
+
+
+
+    var IntervalID = window.setInterval(Auto, delay);
+    // 定时器
+
+
+
+
+
+</script>

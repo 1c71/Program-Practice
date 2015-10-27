@@ -1,0 +1,28 @@
+<script>
+    
+window.onload = function () { 
+    window.onscroll = function () { 
+        var s = document.getElementById('s');
+        s.textContent = '滚动条距离顶部: ' + document.body.scrollTop;
+        // 滚动条和顶部的距离
+    }; 
+};
+
+</script>
+
+
+<div style='background-color:#f88; width:200px; height:2200px;'>
+    我负责撑开窗口
+</div>
+
+<div id='s' style='
+background-color:#f96; 
+width:200px; 
+height:200px; 
+position: fixed;
+bottom: 0;
+right: 0;'></div>
+
+
+
+

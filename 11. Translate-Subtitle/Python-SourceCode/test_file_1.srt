@@ -1,0 +1,85 @@
+1
+00:00:00,900 --> 00:00:06,180
+In this animation we'll see the remarkable way our DNA is tightly
+
+2
+00:00:06,180 --> 00:00:11,389
+packed up to fit into the nucleus of every cell.
+
+3
+00:00:11,389 --> 00:00:15,719
+The process starts with assembly of a
+nucleosome which is formed when eight
+
+4
+00:00:15,719 --> 00:00:22,719
+separate histone proteins sub 
+units attach to the DNA molecule.
+
+5
+00:00:22,779 --> 00:00:28,599
+The combined tight loop of DNA 
+and protein is the nucleosome.
+
+6
+00:00:28,599 --> 00:00:33,850
+Multiple nucleosomes are coiled together
+and these then stack on top of each other.
+
+7
+00:00:33,850 --> 00:00:40,740
+The end result is a fiber of packed
+nucleosomes known as a chromatin.
+
+8
+00:00:40,740 --> 00:00:44,990
+This fiber, which at this point is condensed 
+to a thickness of thirty nanometers,
+
+9
+00:00:46,030 --> 00:00:51,030
+is then looped and further packaged using
+other proteins which are not shown here.
+
+10
+00:00:53,140 --> 00:00:57,960
+This remarkable multiple folding allows
+six feet of DNA to fit into the nucleus
+
+11
+00:00:57,960 --> 00:01:00,630
+of each cell in our body.
+
+12
+00:01:00,630 --> 00:01:06,630
+An object so small that ten thousand
+nuclei could fit on the tip of a needle.
+
+13
+00:01:08,360 --> 00:01:12,680
+The end result is that the DNA is
+tightly packed into the familiar
+
+14
+00:01:12,680 --> 00:01:16,630
+structures we can see through 
+a microscope, chromosomes.
+
+15
+00:01:21,410 --> 00:01:25,560
+It is important to realize that
+chromosomes are not always present. They
+
+16
+00:01:25,560 --> 00:01:28,150
+form only when cells are dividing.
+
+17
+00:01:31,750 --> 00:01:36,700
+At other times as we can see here at 
+the end of cell division, our DNA becomes
+
+18
+00:01:36,700 --> 00:01:38,179
+less highly organized.
+

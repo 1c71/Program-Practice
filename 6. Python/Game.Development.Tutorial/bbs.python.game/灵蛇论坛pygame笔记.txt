@@ -1,0 +1,9 @@
+﻿sys.exit()是退出python解释器回到上级shell，IDLE最高级别就是就是python解释器
+所以会报错
+
+
+
+
+
+
+

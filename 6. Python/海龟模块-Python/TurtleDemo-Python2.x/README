@@ -1,0 +1,26 @@
+Turtle graphics demo scripts 
+
+These scripts use Python's new turtle module, which
+is part of the standard library since Python 2.6
+
+This bundle also contains a backport of the version
+1.1 of the turtle module, that comes with Python 3.1
+to Python 2.5 / 2.6. It contains a couple of new
+methods/functions and two bugfixes related to screen
+updating. (The bugs show up onlys in rare cases.).
+
+A few of the scripts use features of this new version.
+
+So:
+
+(1) if you want to use the new turtle module with Python 2.5,
+
+or
+
+(2) if you use Python 2.6 and you want to use those new 
+features or you want to avoid running into those bugs,
+
+replace the turtle module present in your version (in
+Lib/lib-tk) by the one contained in this bundle.
+
+

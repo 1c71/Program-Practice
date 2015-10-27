@@ -1,0 +1,69 @@
+
+
+http://eyehere.net/2011/python-pygame-novice-professional-22/#comment-1834
+
+
+
+
+我们使用pygame.mixer.music.load()来加载一个文件，
+然后使用pygame.mixer.music.play()来播放，这里并没有一个类似Music这样的类和对象，
+
+因为背景音乐一般只要有一个在播放就好了不是么~不放的时候就用stop()方法来停止就好了，
+当然很自然有类似录影机上的pause()和unpause()方法。
+
+
+
+
+Sound对象：
+	
+	fadeout	淡出声音，	可接受一个数字（毫秒）作为淡出时间
+	get_length		获得声音文件长度，以秒计
+	get_num_channels	声音要播放多少次
+	get_volume		获取音量（0.0 ~ 1.0）
+	play			开始播放，返回一个Channel对象，失败则返回None
+	set_volume		设置音量
+	stop			立刻停止播放
+
+
+
+Channels对象：
+
+	fadeout		类似
+	get_busy	如果正在播放，返回true
+	get_endevent	获取播放完毕时要做的event，没有则为None
+	get_queue	获取队列中的声音，没有则为None
+	get_volume	类似
+	pause		暂停播放
+	play		类似
+	queue		将一个Sound对象加入队列，在当前声音播放完毕后播放
+	set_endevent	设置播放完毕时要做的event
+	set_volume	类似
+	stop		立刻停止播放
+	unpause		继续播放
+
+
+
+Music Object：
+
+	fadeout		类似
+	get_endevent	类似
+	get_volume	类似
+	load		加载一个音乐文件
+	pause		类似
+	play		类似
+	rewind		从头开始重新播放
+	set_endevent	类似
+	set_volume	类似
+	stop		立刻停止播放
+	unpause		继续播放
+	get_pos		获得当前播放的位置，毫秒计
+
+
+
+
+
+
+
+
+
+

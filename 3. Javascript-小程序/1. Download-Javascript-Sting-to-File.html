@@ -1,0 +1,46 @@
+
+<!-- 
+    这段程序可以把[js字符串]下载到本地, 代码来源网络, 有修改.
+    在Chrome上管用, 其他的则没测试过..
+    
+    当时去网上找这段代码是因为当时在写Tampermonkey脚本, 作用是要下载Youtube视频的自动字幕..
+-->
+
+
+<a id="saveButton" href="" onclick="save();"> Save </a>
+<div contenteditable id="div" style='border: 1px black solid;'></div>
+
+<!-- 点击按钮后, 将可编辑的div内容下载下来. -->
+
+
+
+
+
+
+<script>
+    function save(){
+
+        var note = document.getElementById('div').innerHTML;
+        note = note.replace(/(<div><br>)*<\/div>/g, '\n');
+        note = note.replace(/<div>/g, '');
+        /* replaces some html entities */
+        note = note.replace(/&nbsp;/g, ' ');
+        note = note.replace(/&amp;/g, '&');
+        note = note.replace(/&lt;/g, '<');
+        note = note.replace(/&gt;/g, '>');
+
+        document.getElementById('saveButton').setAttribute(
+            'download',
+            'aaa.srt'
+        );
+        // 设置一个download属性, 这个值是文件名 
+
+        document.getElementById('saveButton').setAttribute(
+            'href',
+            'data:Content-type: text/plain, ' + escape(note)
+        );
+
+    }
+</script>
+
+

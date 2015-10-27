@@ -1,0 +1,51 @@
+
+[网络服务端]的建立过程分为6 个阶段，
+创建Socket 对象、
+	绑定端口、
+	监听连接、
+	接受请求、
+	数据收发、
+	关闭端口。
+分别对应函式: 
+	socket.socket() 、
+	socket.bind() 、
+	socket.listen() 、
+	socket.accept() 、
+	socket.sendall()\socket.recv()、
+	socket.close()。
+
+
+
+
+[建立网络客户端]
+网络服务端的建立过程分为四个阶段，
+	创建Socket 对象、
+	连接服务器、
+	数据收发、
+	关闭端口。
+分别对应函式 
+	socket.socket()、
+	socket.connect()、
+	socket.sendall()\socket.recv()、
+	socket.close()
+
+
+
+
+[Socket 异常]
+Python 的socket 模块定义了四种可能出现的异常。
+	1. socket.error：与一般I/O 操作和数据通信问题有关的异常。
+	2. socket.gaierror：与域名解析有关的异常。
+	3. socket.herror：与其他地址解析错误有关的异常。
+	4. socket.timeout：socket 调用sockettimeout()函式后，处理超时有关的异常。
+
+
+
+
+
+
+
+
+
+
+
