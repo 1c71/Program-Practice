@@ -3,14 +3,14 @@
 
 
 <br/>
-1. Ruby  
+1. [Ruby](#ruby)  
 2. Io  
 3. Prolog  
 4. Scale  
 5. Erlang  
 6. Clojure  
 7. Haskell  
-[link](#head1234)
+
 
 
 
@@ -21,7 +21,7 @@
 <br/>
 <br/>
 <br/>
-## 1. Ruby  
+## 1. <a name="ruby"></a>Ruby  
 
 ```Ruby
 a = ["321", 1, [2,3]]
