@@ -1,5 +1,4 @@
-有本书叫做<七周七语言>  
-
+### 有本书叫做<七周七语言>  
 这里是笔记  
 
 
@@ -18,8 +17,8 @@
 ---
 
 
-
-
+<br/>
+<br/>
 ## 1. Ruby  
 
 ```Ruby
@@ -63,6 +62,11 @@ end
 
 
 
+
+
+
+<br/>
+<br/>
 ## 2. Io
 (电子书第 50 页开始)  
 出现于 2002 年  
@@ -73,12 +77,16 @@ http://iolanguage.org/
 ```
 
 
+<br/>
+<br/>
 ## 3. Prolog  
 (电子书第 79 页开始)  
 出现于 1972 年  
 http://iolanguage.org/  
 
 
+<br/>
+<br/>
 ## 4. Scala  
 (电子书第 111 页开始)  
 http://www.scala-lang.org/  
@@ -108,16 +116,21 @@ def squareWithBlock(a: Int) = {
 
 
 
-
+<br/>
+<br/>
 ## 5. Erlang  
 
 
 
+
+<br/>
+<br/>
 ## 6. Clojure  
 
 
 
-
+<br/>
+<br/>
 ## 7. Haskell  
 
 
