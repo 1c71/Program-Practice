@@ -10,13 +10,15 @@
 5. Erlang  
 6. Clojure  
 7. Haskell  
-
+[link](#head1234)
 
 
 
 ---
 
 
+
+<br/>
 <br/>
 <br/>
 ## 1. Ruby  
@@ -64,7 +66,7 @@ end
 
 
 
-
+<br/>
 <br/>
 <br/>
 ## 2. Io
@@ -77,6 +79,9 @@ http://iolanguage.org/
 ```
 
 
+
+
+<br/>
 <br/>
 <br/>
 ## 3. Prolog  
@@ -85,6 +90,10 @@ http://iolanguage.org/
 http://iolanguage.org/  
 
 
+
+
+
+<br/>
 <br/>
 <br/>
 ## 4. Scala  
@@ -116,22 +125,24 @@ def squareWithBlock(a: Int) = {
 
 
 
+
+<br/>
 <br/>
 <br/>
 ## 5. Erlang  
 
 
 
-
+<br/>
 <br/>
 <br/>
 ## 6. Clojure  
 
 
-
 <br/>
 <br/>
-## 7. Haskell  
+<br/>
+## <a name="head1234"></a>7. Haskell  
 
 
 
