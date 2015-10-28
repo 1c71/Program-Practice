@@ -79,14 +79,33 @@ http://iolanguage.org/
 http://iolanguage.org/  
 
 
-## 4. Scale  
+## 4. Scala  
 (电子书第 111 页开始)  
 http://www.scala-lang.org/  
 http://zh.scala-tour.com/#/welcome  
 Scala 是一门 函数式的面向对象语言。他运行在Java虚拟机上  
-```Scale
+```Scala
 println("Hello World")
 ```
+
+```Scala
+val 常量
+val = "lolo"
+
+var 变量
+var = "asdasd"
+
+```
+
+```Scala
+def square(a: Int) = a * a
+
+def squareWithBlock(a: Int) = {
+    a * a
+}
+```
+
+
 
 
 
